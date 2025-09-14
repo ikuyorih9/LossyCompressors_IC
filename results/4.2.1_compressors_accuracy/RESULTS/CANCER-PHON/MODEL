@@ -1,0 +1,58 @@
+[
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 5.081409931182861,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 3.6553955078125,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 2.86444354057312,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 3.278900146484375,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "webp_lossy",
+        "iteration": -1,
+        "time": 5.024494171142578,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "jp2_lossy",
+        "iteration": 30,
+        "time": 5.666649341583252,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "MODEL",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 17.23065161705017,
+        "repetition": 0
+    }
+]

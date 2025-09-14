@@ -1,0 +1,1498 @@
+[
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.8332757949829102,
+        "process_time": 0.11845510000000026,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.9343609809875488,
+        "process_time": 0.10711799999999982,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.2621419429779053,
+        "process_time": 0.16748719999999984,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.18540620803833,
+        "process_time": 0.1338771999999997,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.416365623474121,
+        "process_time": 0.20347159999999986,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.30948543548584,
+        "process_time": 0.16871619999999998,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.966095209121704,
+        "process_time": 0.14803900000000025,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.964617729187012,
+        "process_time": 0.16678729999999975,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 21.09584903717041,
+        "process_time": 0.19128299999999987,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.172464609146118,
+        "process_time": 0.13718550000000018,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.717955112457275,
+        "process_time": 0.5931762999999997,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.399458408355713,
+        "process_time": 0.2766723,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.015785455703735,
+        "process_time": 0.24617060000000013,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.9334919452667236,
+        "process_time": 0.19165359999999998,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.780364274978638,
+        "process_time": 0.1775829,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.347270488739014,
+        "process_time": 0.21122969999999963,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 22.068224668502808,
+        "process_time": 0.24982060000000006,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 4.69220232963562,
+        "process_time": 0.18707910000000005,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.4830799102783203,
+        "process_time": 0.1805330999999999,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 4.154475450515747,
+        "process_time": 0.16870010000000013,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.832134485244751,
+        "process_time": 0.16531930000000017,
+        "output": "../../../results/teste/CLUSTERS/CANCER-PHON/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.1477346420288086,
+        "process_time": 0.1624861000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.753735065460205,
+        "process_time": 0.1293761,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.3573272228240967,
+        "process_time": 0.12858970000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.41331148147583,
+        "process_time": 0.13308259999999983,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.919368505477905,
+        "process_time": 0.14701889999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.9269652366638184,
+        "process_time": 0.19680730000000013,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.7795472145080566,
+        "process_time": 0.1528586999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.982038736343384,
+        "process_time": 0.14682519999999988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.048256158828735,
+        "process_time": 0.1546198000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.915257692337036,
+        "process_time": 0.16632510000000034,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.028975009918213,
+        "process_time": 0.1664857000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 17.74539828300476,
+        "process_time": 0.2507375999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.991217613220215,
+        "process_time": 0.25257790000000035,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.655461549758911,
+        "process_time": 0.13550620000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.701383113861084,
+        "process_time": 0.18025160000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.921503782272339,
+        "process_time": 0.16661959999999887,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.318439245223999,
+        "process_time": 0.16214839999999953,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.708911657333374,
+        "process_time": 0.4258790000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.941633701324463,
+        "process_time": 0.1264915999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 8.527569770812988,
+        "process_time": 0.17356599999999922,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.324687242507935,
+        "process_time": 0.15567989999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 4.5752880573272705,
+        "process_time": 0.2572613000000006,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.100975036621094,
+        "process_time": 0.16695130000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.052959680557251,
+        "process_time": 0.16882019999999986,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.018758296966553,
+        "process_time": 0.20208939999999842,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.543328523635864,
+        "process_time": 0.1534601000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.635305643081665,
+        "process_time": 0.14598240000000118,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.307023286819458,
+        "process_time": 0.1908972999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.040245771408081,
+        "process_time": 0.15740070000000017,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.9390461444854736,
+        "process_time": 0.19150590000000012,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.280546426773071,
+        "process_time": 0.17135519999999982,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.7934274673461914,
+        "process_time": 0.1536647000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.989527463912964,
+        "process_time": 0.16915440000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.581849575042725,
+        "process_time": 0.171050300000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.002091407775879,
+        "process_time": 0.15509719999999838,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.015717267990112,
+        "process_time": 0.2028111000000017,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.6331474781036377,
+        "process_time": 0.1576430999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 4.423520803451538,
+        "process_time": 0.18051360000000027,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.601099252700806,
+        "process_time": 0.16992730000000034,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.581199884414673,
+        "process_time": 0.151999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.170043230056763,
+        "process_time": 0.20707720000000052,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.9502265453338623,
+        "process_time": 0.15004949999999972,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.612609386444092,
+        "process_time": 0.1414010000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.295460224151611,
+        "process_time": 0.19456910000000072,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.40314507484436,
+        "process_time": 0.17621799999999954,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 6.672173738479614,
+        "process_time": 0.21629940000000047,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.533308506011963,
+        "process_time": 0.13567820000000008,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 6.93855357170105,
+        "process_time": 0.17399339999999963,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 6.119922637939453,
+        "process_time": 0.18303970000000014,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 6.354124546051025,
+        "process_time": 0.15953320000000026,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.38016939163208,
+        "process_time": 0.16827460000000016,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.6684277057647705,
+        "process_time": 0.16509269999999887,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.8364317417144775,
+        "process_time": 0.2258823000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 7.008020639419556,
+        "process_time": 0.21968749999999915,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 6.887815237045288,
+        "process_time": 0.4630884000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 6.174412727355957,
+        "process_time": 0.21244839999999954,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 6.406379461288452,
+        "process_time": 0.16733510000000074,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 8.585726499557495,
+        "process_time": 0.24888080000000024,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.278874635696411,
+        "process_time": 0.19605089999999947,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.528710603713989,
+        "process_time": 0.14706389999999914,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 19.073466539382935,
+        "process_time": 0.21421930000000078,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 22.61174964904785,
+        "process_time": 0.21454050000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 23.71028780937195,
+        "process_time": 0.40243259999999914,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 22.1392822265625,
+        "process_time": 0.19203510000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 22.51839327812195,
+        "process_time": 0.1936511000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 19.175629138946533,
+        "process_time": 0.20646260000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 13.9359290599823,
+        "process_time": 0.20643609999999946,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 17.911885499954224,
+        "process_time": 0.21802659999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/CANCER-PHON/TRAIN/heif/heif_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.047307014465332,
+        "process_time": 0.12873610000000024,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0719916820526123,
+        "process_time": 0.1353112999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.0665009021759033,
+        "process_time": 0.12389220000000023,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.9370768070220947,
+        "process_time": 0.1343848000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.4599533081054688,
+        "process_time": 0.11015209999999964,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.510298728942871,
+        "process_time": 0.15519149999999993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2669007778167725,
+        "process_time": 0.10512260000000051,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.728407382965088,
+        "process_time": 0.18641659999999938,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0204155445098877,
+        "process_time": 0.14598750000000038,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.8546459674835205,
+        "process_time": 0.15493190000000023,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.762148141860962,
+        "process_time": 0.13210510000000042,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.6911356449127197,
+        "process_time": 0.1684947000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.535532236099243,
+        "process_time": 0.13367849999999937,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.7796897888183594,
+        "process_time": 0.12581749999999925,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.83656907081604,
+        "process_time": 0.1451286000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.686955451965332,
+        "process_time": 0.13822690000000026,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.710461378097534,
+        "process_time": 0.12347739999999963,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.59297513961792,
+        "process_time": 0.14201320000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.820193290710449,
+        "process_time": 0.12377290000000052,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.5028839111328125,
+        "process_time": 0.1362755,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.6035118103027344,
+        "process_time": 0.12116090000000046,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.3870105743408203,
+        "process_time": 0.12826619999999966,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.2464396953582764,
+        "process_time": 0.1310665000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.4181604385375977,
+        "process_time": 0.13429340000000067,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.373883008956909,
+        "process_time": 0.12002990000000047,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.1738133430480957,
+        "process_time": 0.13922369999999962,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.1370856761932373,
+        "process_time": 0.16072120000000023,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2413251399993896,
+        "process_time": 0.1320806000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 2.761718273162842,
+        "process_time": 0.13987460000000063,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.5706229209899902,
+        "process_time": 0.12799799999999983,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.817483901977539,
+        "process_time": 0.12275799999999926,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.8844285011291504,
+        "process_time": 0.1292757,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.8141839504241943,
+        "process_time": 0.1294746999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.7407946586608887,
+        "process_time": 0.14158619999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.189946413040161,
+        "process_time": 0.12634349999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.9467713832855225,
+        "process_time": 0.1529828000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.39932918548584,
+        "process_time": 0.15074590000000043,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.211399555206299,
+        "process_time": 0.13610569999999989,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.012741327285767,
+        "process_time": 0.1573808999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.833339214324951,
+        "process_time": 0.15262519999999924,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.798410415649414,
+        "process_time": 0.19477710000000048,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.406476259231567,
+        "process_time": 0.1529335999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.5985302925109863,
+        "process_time": 0.14806009999999947,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.8593430519104004,
+        "process_time": 0.15067840000000032,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.16663384437561,
+        "process_time": 0.14685080000000017,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.3956475257873535,
+        "process_time": 0.14811490000000038,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.120776653289795,
+        "process_time": 0.17179499999999948,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.081409931182861,
+        "process_time": 0.1575722000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.444164514541626,
+        "process_time": 0.14373219999999964,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.8266615867614746,
+        "process_time": 0.13389659999999992,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.456515312194824,
+        "process_time": 0.14420120000000036,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.6833109855651855,
+        "process_time": 0.1383694000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.386967420578003,
+        "process_time": 0.12960679999999947,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.6295740604400635,
+        "process_time": 0.11816250000000039,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.2358598709106445,
+        "process_time": 0.13346280000000021,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.6553955078125,
+        "process_time": 0.12445940000000011,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.3814103603363037,
+        "process_time": 0.15498429999999974,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.714364767074585,
+        "process_time": 0.13592110000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.4140584468841553,
+        "process_time": 0.1970888999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.1978485584259033,
+        "process_time": 0.14842629999999968,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.8407793045043945,
+        "process_time": 0.1368830000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.762068033218384,
+        "process_time": 0.1503249000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.9805917739868164,
+        "process_time": 0.13102020000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.86444354057312,
+        "process_time": 0.1449771000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.713682174682617,
+        "process_time": 0.14103499999999958,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.1433842182159424,
+        "process_time": 0.11831050000000065,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.95977783203125,
+        "process_time": 0.15160090000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.459317684173584,
+        "process_time": 0.1384527999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.5678088665008545,
+        "process_time": 0.12798889999999918,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.979186534881592,
+        "process_time": 0.16061860000000028,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.5232558250427246,
+        "process_time": 0.12782479999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.278900146484375,
+        "process_time": 0.1282413999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.0718955993652344,
+        "process_time": 0.14607379999999992,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.4240591526031494,
+        "process_time": 0.11992160000000052,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.845113754272461,
+        "process_time": 0.13012200000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.010524272918701,
+        "process_time": 0.1353333000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.788018226623535,
+        "process_time": 0.14299140000000055,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.786347389221191,
+        "process_time": 0.13022020000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.0038673877716064,
+        "process_time": 0.15302030000000055,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.024494171142578,
+        "process_time": 0.13972559999999934,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.212724208831787,
+        "process_time": 0.12610299999999963,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.738621473312378,
+        "process_time": 0.14052869999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.671895980834961,
+        "process_time": 0.14923330000000057,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.768342018127441,
+        "process_time": 0.14648100000000053,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.774218559265137,
+        "process_time": 0.14963620000000066,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.3343400955200195,
+        "process_time": 0.13585650000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.326967477798462,
+        "process_time": 0.12559830000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.666649341583252,
+        "process_time": 0.13537640000000017,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.683858871459961,
+        "process_time": 0.12928610000000074,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.976430654525757,
+        "process_time": 0.17074950000000033,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 19.20932412147522,
+        "process_time": 0.1851262999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 22.575255870819092,
+        "process_time": 0.20519269999999956,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 18.524595499038696,
+        "process_time": 0.1658653999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 19.357967376708984,
+        "process_time": 0.20052809999999965,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 18.960946321487427,
+        "process_time": 0.1823138000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 17.23065161705017,
+        "process_time": 0.1424328999999993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 14.673301935195923,
+        "process_time": 0.19019869999999983,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 9.07517123222351,
+        "process_time": 0.2071449999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/CANCER-PHON/TRAIN/heif/heif_TRAIN_30.out"
+    }
+]

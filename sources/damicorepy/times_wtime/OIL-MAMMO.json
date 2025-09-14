@@ -1,0 +1,1210 @@
+[
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.5475196838378906,
+        "process_time": 0.15489979999999992,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.870870351791382,
+        "process_time": 0.12931669999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.474264144897461,
+        "process_time": 0.13841670000000006,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.4443233013153076,
+        "process_time": 0.15373029999999988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.034137725830078,
+        "process_time": 0.1473213000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.943727731704712,
+        "process_time": 0.17861800000000017,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.731597900390625,
+        "process_time": 0.14177450000000036,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.860992670059204,
+        "process_time": 0.5420441999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.169432163238525,
+        "process_time": 0.19834309999999977,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.137814998626709,
+        "process_time": 0.1535420000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 10.1102294921875,
+        "process_time": 0.21107049999999994,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.8266549110412598,
+        "process_time": 0.16765260000000026,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.8492791652679443,
+        "process_time": 0.18361830000000268,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.5523993968963623,
+        "process_time": 0.17158400000000285,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.367329120635986,
+        "process_time": 0.16112419999999972,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.133738040924072,
+        "process_time": 0.224161500000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.7623395919799805,
+        "process_time": 0.14745789999999914,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.207124471664429,
+        "process_time": 0.24724269999999748,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.056168794631958,
+        "process_time": 0.16811940000000192,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.3622801303863525,
+        "process_time": 0.1666420999999989,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 5.490403413772583,
+        "process_time": 0.16380870000000058,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.740651607513428,
+        "process_time": 0.15833849999999927,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.7769529819488525,
+        "process_time": 0.18226280000000017,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.151933670043945,
+        "process_time": 0.16222759999999958,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.341839075088501,
+        "process_time": 0.1800389000000031,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.255945682525635,
+        "process_time": 0.1966360999999992,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.244538307189941,
+        "process_time": 0.16586960000000062,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.493121147155762,
+        "process_time": 0.17913279999999965,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.747654438018799,
+        "process_time": 0.16917709999999886,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.924180030822754,
+        "process_time": 0.15648820000000008,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.745087146759033,
+        "process_time": 0.18901149999999944,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.317294359207153,
+        "process_time": 0.21728899999999918,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.953655242919922,
+        "process_time": 0.15200480000000027,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.717576742172241,
+        "process_time": 0.20335880000000017,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.5735037326812744,
+        "process_time": 0.17015460000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.119760751724243,
+        "process_time": 0.3221337000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 4.170193195343018,
+        "process_time": 0.18042359999999924,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.180812835693359,
+        "process_time": 0.23581870000000116,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.306315660476685,
+        "process_time": 0.19750789999999974,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.883643388748169,
+        "process_time": 0.16539280000000112,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.556347131729126,
+        "process_time": 0.15215909999999866,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.093236207962036,
+        "process_time": 0.23319440000000213,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.8223788738250732,
+        "process_time": 0.1630351999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.127098083496094,
+        "process_time": 0.18681079999999994,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.623244285583496,
+        "process_time": 0.22377720000000068,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 7.873428106307983,
+        "process_time": 0.2675882999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.831503391265869,
+        "process_time": 0.185718099999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.32988429069519,
+        "process_time": 0.22493479999999977,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.337276458740234,
+        "process_time": 0.19622109999999893,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.565085172653198,
+        "process_time": 0.8579042999999977,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.324411630630493,
+        "process_time": 0.23136100000000326,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.525916576385498,
+        "process_time": 0.17563980000000257,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.304877042770386,
+        "process_time": 0.16941230000000118,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.794018030166626,
+        "process_time": 0.16485450000000057,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.483677625656128,
+        "process_time": 0.15733669999999833,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.230440378189087,
+        "process_time": 0.224218699999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.315374851226807,
+        "process_time": 0.1743251000000008,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.2180705070495605,
+        "process_time": 0.34718230000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.120655059814453,
+        "process_time": 0.14330929999999853,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 13.568509817123413,
+        "process_time": 0.20444990000000018,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 15.002314567565918,
+        "process_time": 0.2287128999999979,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 20.19618272781372,
+        "process_time": 0.23059410000000113,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 15.025889873504639,
+        "process_time": 0.22031109999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 14.313642263412476,
+        "process_time": 0.25989230000000063,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 13.289286613464355,
+        "process_time": 0.2008296999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 11.593143701553345,
+        "process_time": 0.8481561999999983,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 19.108376026153564,
+        "process_time": 0.29761119999999863,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/OIL-MAMMO/TRAIN/heif/heif_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.5148680210113525,
+        "process_time": 0.11980590000000113,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1749508380889893,
+        "process_time": 0.15909699999999916,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.162264347076416,
+        "process_time": 0.14488910000000033,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.3917934894561768,
+        "process_time": 0.15099790000000013,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.1877572536468506,
+        "process_time": 0.12778780000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.8646037578582764,
+        "process_time": 0.13445899999999966,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.017423152923584,
+        "process_time": 0.12818979999999947,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 4.498849868774414,
+        "process_time": 0.1409433,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.7800581455230713,
+        "process_time": 0.19049400000000105,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.771324634552002,
+        "process_time": 0.15024580000000043,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.349547863006592,
+        "process_time": 0.15732349999999862,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.4487974643707275,
+        "process_time": 0.13598919999999914,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.6097397804260254,
+        "process_time": 0.14537070000000085,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.262684106826782,
+        "process_time": 0.14968730000000008,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.8213489055633545,
+        "process_time": 0.14402849999999923,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.5624258518218994,
+        "process_time": 0.14626439999999974,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.741393566131592,
+        "process_time": 0.18631120000000045,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.1149067878723145,
+        "process_time": 0.1371450000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.3055152893066406,
+        "process_time": 0.1508301999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.7108306884765625,
+        "process_time": 0.13948530000000048,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.914222478866577,
+        "process_time": 0.13984739999999896,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.1074445247650146,
+        "process_time": 0.1696723999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0620481967926025,
+        "process_time": 0.1273686999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.4266722202301025,
+        "process_time": 0.1836165999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.41569185256958,
+        "process_time": 0.12062049999999935,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.9424986839294434,
+        "process_time": 0.13054649999999945,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.849339008331299,
+        "process_time": 0.1597445000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.953103542327881,
+        "process_time": 0.12724249999999948,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.2917075157165527,
+        "process_time": 0.1173731999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.3483223915100098,
+        "process_time": 0.12590320000000155,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.8576767444610596,
+        "process_time": 0.14615620000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.123328685760498,
+        "process_time": 0.16864930000000022,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.799269437789917,
+        "process_time": 0.14550270000000154,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.6435375213623047,
+        "process_time": 0.19695709999999877,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.697918176651001,
+        "process_time": 0.11911150000000248,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.809324264526367,
+        "process_time": 0.11180160000000328,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.037749528884888,
+        "process_time": 0.13097600000000043,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.7592663764953613,
+        "process_time": 0.13105939999999983,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.6480274200439453,
+        "process_time": 0.13417060000000092,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.7064719200134277,
+        "process_time": 0.13735480000000067,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.652447462081909,
+        "process_time": 0.12548340000000024,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.939793109893799,
+        "process_time": 0.12948489999999957,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.214422225952148,
+        "process_time": 0.14160659999999936,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.80731201171875,
+        "process_time": 0.14131869999999935,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.231525421142578,
+        "process_time": 0.14203209999999977,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.155595541000366,
+        "process_time": 0.1298735999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.242650270462036,
+        "process_time": 0.14338470000000036,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.0286309719085693,
+        "process_time": 0.1430895000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.1600537300109863,
+        "process_time": 0.15795989999999982,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.4141342639923096,
+        "process_time": 0.18896269999999937,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.54215931892395,
+        "process_time": 0.12679170000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.498542070388794,
+        "process_time": 0.15716739999999874,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.682060480117798,
+        "process_time": 0.12949259999999896,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 4.152904033660889,
+        "process_time": 0.13512810000000108,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.5792510509490967,
+        "process_time": 0.13535640000000093,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.2606663703918457,
+        "process_time": 0.15366960000000063,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.100555419921875,
+        "process_time": 0.13324420000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.9875779151916504,
+        "process_time": 0.11901470000000103,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.3114013671875,
+        "process_time": 0.188285500000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.6468257904052734,
+        "process_time": 0.13015769999999804,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.913963556289673,
+        "process_time": 0.13446119999999873,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 3.9973490238189697,
+        "process_time": 0.13530650000000044,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.530592918395996,
+        "process_time": 0.13560219999999923,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.861088752746582,
+        "process_time": 0.13181389999999915,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.832167148590088,
+        "process_time": 0.13694190000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.8562512397766113,
+        "process_time": 0.13866769999999917,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.979367733001709,
+        "process_time": 0.17331579999999924,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.240013360977173,
+        "process_time": 0.1543492000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.447650909423828,
+        "process_time": 0.16066340000000068,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.762104034423828,
+        "process_time": 0.15522849999999977,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.095537424087524,
+        "process_time": 0.1346955000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.9705262184143066,
+        "process_time": 0.1303465999999993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.9619359970092773,
+        "process_time": 0.16468369999999943,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.017011880874634,
+        "process_time": 0.14501919999999835,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.413733959197998,
+        "process_time": 0.12791479999999922,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.9586775302886963,
+        "process_time": 0.14912849999999978,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 9.741939783096313,
+        "process_time": 0.15671740000000156,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 10.919816493988037,
+        "process_time": 0.1488195000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 19.736397743225098,
+        "process_time": 0.15383860000000027,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 11.216363906860352,
+        "process_time": 0.1558306999999992,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 11.353227138519287,
+        "process_time": 0.15805440000000104,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 10.948228597640991,
+        "process_time": 0.15761720000000068,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 8.696897268295288,
+        "process_time": 0.13516540000000177,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 10.3304283618927,
+        "process_time": 0.15277850000000015,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/OIL-MAMMO/TRAIN/heif/heif_TRAIN_30.out"
+    }
+]

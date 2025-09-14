@@ -1,0 +1,2122 @@
+[
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ANOTHER-CONTROL",
+        "time": 0.657625675201416,
+        "process_time": 0.0983518000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.5015101432800293,
+        "process_time": 0.05700189999999994,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.5395505428314209,
+        "process_time": 0.06126340000000008,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.6502187252044678,
+        "process_time": 0.05970460000000011,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.7510154247283936,
+        "process_time": 0.06230240000000009,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.6405916213989258,
+        "process_time": 0.06682809999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.6670923233032227,
+        "process_time": 0.06274209999999991,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.7027378082275391,
+        "process_time": 0.0643745,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.7302296161651611,
+        "process_time": 0.06360180000000026,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.7861967086791992,
+        "process_time": 0.06557780000000024,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.1561610698699951,
+        "process_time": 0.07794740000000022,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 10,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.119039535522461,
+        "process_time": 0.08147960000000021,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 11,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.3083961009979248,
+        "process_time": 0.08331129999999964,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_11.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 12,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.2082417011260986,
+        "process_time": 0.08192379999999977,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_12.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 13,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.4919261932373047,
+        "process_time": 0.08453659999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_13.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 14,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.2513635158538818,
+        "process_time": 0.08014700000000019,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_14.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 15,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.3705918788909912,
+        "process_time": 0.0891731,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_15.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 16,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.5631682872772217,
+        "process_time": 0.11176239999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_16.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 17,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.6028385162353516,
+        "process_time": 0.12097500000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_17.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 18,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.559190034866333,
+        "process_time": 0.10451900000000025,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_18.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 19,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.6082067489624023,
+        "process_time": 0.09342429999999968,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_19.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 20,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.9268991947174072,
+        "process_time": 0.10340550000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_20.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 21,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.735719919204712,
+        "process_time": 0.09710550000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_21.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 22,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.828810691833496,
+        "process_time": 0.09854910000000006,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_22.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 23,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.8776485919952393,
+        "process_time": 0.10077680000000022,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_23.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 24,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.960705280303955,
+        "process_time": 0.13397720000000035,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_24.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 25,
+        "type": "ANOTHER-CONTROL",
+        "time": 1.9775631427764893,
+        "process_time": 0.10523650000000018,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_25.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 26,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.06685471534729,
+        "process_time": 0.10886390000000024,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_26.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 27,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.1708595752716064,
+        "process_time": 0.14429919999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_27.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 28,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.2011756896972656,
+        "process_time": 0.11259759999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_28.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 29,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.237581729888916,
+        "process_time": 0.11149770000000014,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_29.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "API",
+        "time": 0.5774438381195068,
+        "process_time": 0.06610789999999955,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "API",
+        "time": 0.6378467082977295,
+        "process_time": 0.06707190000000018,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "API",
+        "time": 0.6933450698852539,
+        "process_time": 0.06824239999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "API",
+        "time": 0.955481767654419,
+        "process_time": 0.0875622999999992,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "API",
+        "time": 0.7500765323638916,
+        "process_time": 0.06966110000000025,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "API",
+        "time": 0.8243153095245361,
+        "process_time": 0.07261890000000015,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "API",
+        "time": 0.8399138450622559,
+        "process_time": 0.0741695,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "API",
+        "time": 0.8963837623596191,
+        "process_time": 0.07776579999999989,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "API",
+        "time": 1.1988615989685059,
+        "process_time": 0.07649300000000014,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "API",
+        "time": 0.9757285118103027,
+        "process_time": 0.07533710000000049,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "API",
+        "time": 1.0672473907470703,
+        "process_time": 0.08850409999999975,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 10,
+        "type": "API",
+        "time": 1.246305227279663,
+        "process_time": 0.0869844999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "CONC",
+        "time": 1.089907169342041,
+        "process_time": 0.1249570999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "CONC",
+        "time": 0.8032069206237793,
+        "process_time": 0.10234370000000048,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "CONC",
+        "time": 0.8944811820983887,
+        "process_time": 0.09193539999999967,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "CONC",
+        "time": 1.1901423931121826,
+        "process_time": 0.13590869999999988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "CONC",
+        "time": 0.9344630241394043,
+        "process_time": 0.10020309999999988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "CONC",
+        "time": 0.954193115234375,
+        "process_time": 0.09142660000000014,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "CONC",
+        "time": 1.2797229290008545,
+        "process_time": 0.12261269999999946,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "CONC",
+        "time": 1.0586905479431152,
+        "process_time": 0.10139560000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "CONC",
+        "time": 1.1098599433898926,
+        "process_time": 0.10821419999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "CONC",
+        "time": 1.2567808628082275,
+        "process_time": 0.1095189999999997,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "CONC",
+        "time": 1.5916328430175781,
+        "process_time": 0.09435549999999981,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "LOGIC",
+        "time": 0.9480955600738525,
+        "process_time": 0.08403069999999957,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "LOGIC",
+        "time": 0.7367205619812012,
+        "process_time": 0.09501839999999984,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "LOGIC",
+        "time": 0.8661346435546875,
+        "process_time": 0.07941260000000039,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "LOGIC",
+        "time": 1.1856026649475098,
+        "process_time": 0.08585820000000055,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "LOGIC",
+        "time": 0.8342957496643066,
+        "process_time": 0.09247759999999872,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "LOGIC",
+        "time": 0.8874151706695557,
+        "process_time": 0.09922379999999897,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "LOGIC",
+        "time": 0.9802792072296143,
+        "process_time": 0.0838467000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "LOGIC",
+        "time": 0.9527652263641357,
+        "process_time": 0.07865259999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "LOGIC",
+        "time": 1.329587459564209,
+        "process_time": 0.12006680000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "LOGIC",
+        "time": 1.0793330669403076,
+        "process_time": 0.08946919999999992,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "LOGIC",
+        "time": 1.0989973545074463,
+        "process_time": 0.08900299999999994,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "MEMORY",
+        "time": 0.792881965637207,
+        "process_time": 0.08529429999999927,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "MEMORY",
+        "time": 0.6998894214630127,
+        "process_time": 0.07301050000000053,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "MEMORY",
+        "time": 0.7665657997131348,
+        "process_time": 0.09218729999999908,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "MEMORY",
+        "time": 0.8317286968231201,
+        "process_time": 0.08937999999999846,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "MEMORY",
+        "time": 1.1072371006011963,
+        "process_time": 0.10506329999999942,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "MEMORY",
+        "time": 1.0549466609954834,
+        "process_time": 0.11713819999999942,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "MEMORY",
+        "time": 1.0760979652404785,
+        "process_time": 0.11384280000000047,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "MEMORY",
+        "time": 1.1322033405303955,
+        "process_time": 0.10438749999999963,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "MODEL",
+        "time": 0.8512692451477051,
+        "process_time": 0.09090829999999883,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "MODEL",
+        "time": 1.4009175300598145,
+        "process_time": 0.12147649999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "MODEL",
+        "time": 0.9217360019683838,
+        "process_time": 0.12086240000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "MODEL",
+        "time": 0.7907335758209229,
+        "process_time": 0.08642069999999968,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "MODEL",
+        "time": 0.8030228614807129,
+        "process_time": 0.08363289999999957,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "MODEL",
+        "time": 0.8415045738220215,
+        "process_time": 0.08417149999999829,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "PROCESS",
+        "time": 0.9751601219177246,
+        "process_time": 0.10105360000000019,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "PROCESS",
+        "time": 0.7463533878326416,
+        "process_time": 0.08629690000000068,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "PROCESS",
+        "time": 0.7713909149169922,
+        "process_time": 0.09416759999999869,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "PROCESS",
+        "time": 0.8648521900177002,
+        "process_time": 0.07889789999999941,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "PROCESS",
+        "time": 0.935807466506958,
+        "process_time": 0.07479370000000074,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "PROCESS",
+        "time": 1.0910096168518066,
+        "process_time": 0.1082036999999989,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "PROCESS",
+        "time": 0.9681458473205566,
+        "process_time": 0.0988592999999991,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "TRAIN",
+        "time": 0.6179401874542236,
+        "process_time": 0.07047370000000086,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "TRAIN",
+        "time": 0.6563220024108887,
+        "process_time": 0.06873500000000021,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "TRAIN",
+        "time": 1.1361539363861084,
+        "process_time": 0.08687489999999976,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "TRAIN",
+        "time": 0.8777306079864502,
+        "process_time": 0.110262800000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "TRAIN",
+        "time": 0.7949347496032715,
+        "process_time": 0.08689389999999975,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "TRAIN",
+        "time": 0.8324027061462402,
+        "process_time": 0.07956859999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "TRAIN",
+        "time": 0.880640983581543,
+        "process_time": 0.07822750000000056,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ANOTHER-CONTROL",
+        "time": 0.5337300300598145,
+        "process_time": 0.08898070000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "ANOTHER-CONTROL",
+        "time": 0.7209084033966064,
+        "process_time": 0.08118349999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.3414740562438965,
+        "process_time": 0.21418189999999981,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.655248165130615,
+        "process_time": 0.20860030000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.9905190467834473,
+        "process_time": 0.13924860000000017,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.6004860401153564,
+        "process_time": 0.22374819999999973,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.8098907470703125,
+        "process_time": 0.16089850000000006,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.563575029373169,
+        "process_time": 0.13220529999999986,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.7777373790740967,
+        "process_time": 0.20608770000000032,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.292782306671143,
+        "process_time": 0.2327583999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.731142044067383,
+        "process_time": 0.16430940000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.670844078063965,
+        "process_time": 0.16315750000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.176788091659546,
+        "process_time": 0.22050139999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 16.606956720352173,
+        "process_time": 0.22675979999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.443908214569092,
+        "process_time": 0.21063710000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.7167837619781494,
+        "process_time": 0.1889807000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1377649307250977,
+        "process_time": 0.16215120000000027,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.5928173065185547,
+        "process_time": 0.12677410000000044,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.6419506072998047,
+        "process_time": 0.18009210000000042,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.125703811645508,
+        "process_time": 0.44806020000000046,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.4496192932128906,
+        "process_time": 0.14521229999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.0965869426727295,
+        "process_time": 0.14232729999999982,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.056982755661011,
+        "process_time": 0.15852179999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 4.630772113800049,
+        "process_time": 0.1776317999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.151240348815918,
+        "process_time": 0.16611040000000044,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.138528347015381,
+        "process_time": 0.1560820999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.650513410568237,
+        "process_time": 0.14361460000000026,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.684595584869385,
+        "process_time": 0.21953310000000048,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.832281589508057,
+        "process_time": 0.1873453000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.171421766281128,
+        "process_time": 0.16892120000000066,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.734337091445923,
+        "process_time": 0.15133449999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.627124309539795,
+        "process_time": 0.22377280000000033,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.782681465148926,
+        "process_time": 0.1598170999999997,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.726832628250122,
+        "process_time": 0.1433895999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.6859047412872314,
+        "process_time": 0.16455019999999987,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.8196089267730713,
+        "process_time": 0.22204770000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.6809253692626953,
+        "process_time": 0.14488199999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.280077695846558,
+        "process_time": 0.17396250000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.210521936416626,
+        "process_time": 0.1754281999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.4107840061187744,
+        "process_time": 0.15712269999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.5115349292755127,
+        "process_time": 0.1270386000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.7523128986358643,
+        "process_time": 0.1610176999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.351274251937866,
+        "process_time": 0.16835299999999975,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.795254707336426,
+        "process_time": 0.2031988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.19261908531189,
+        "process_time": 0.15096299999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.115357875823975,
+        "process_time": 0.19299510000000009,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.701254844665527,
+        "process_time": 0.19258149999999974,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.868891477584839,
+        "process_time": 0.17481370000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 6.08631157875061,
+        "process_time": 0.185886,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.487310409545898,
+        "process_time": 0.17057449999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.915303707122803,
+        "process_time": 0.1636318000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.667854309082031,
+        "process_time": 0.1918412000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.854406356811523,
+        "process_time": 0.15095239999999954,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.4124696254730225,
+        "process_time": 0.1434210999999994,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 7.113017797470093,
+        "process_time": 0.2728731,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.644728660583496,
+        "process_time": 0.19621699999999986,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 6.360179901123047,
+        "process_time": 0.19897019999999976,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 6.097919940948486,
+        "process_time": 0.1844910999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.572166919708252,
+        "process_time": 0.15636060000000018,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.901630878448486,
+        "process_time": 0.23390039999999956,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 8.216880321502686,
+        "process_time": 0.2701817000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.271999359130859,
+        "process_time": 0.22536250000000102,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 14.406566619873047,
+        "process_time": 0.2419275999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 14.890875101089478,
+        "process_time": 0.1934095,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 21.771846532821655,
+        "process_time": 0.19574559999999952,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 17.41295027732849,
+        "process_time": 0.26091640000000016,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 18.922446727752686,
+        "process_time": 0.21449319999999972,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 20.23392415046692,
+        "process_time": 0.28188250000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 16.12013030052185,
+        "process_time": 0.19295059999999964,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 16.826146364212036,
+        "process_time": 0.31214040000000054,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/BANK-PIMA/TRAIN/heif/heif_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.3143510818481445,
+        "process_time": 0.14110500000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.3783485889434814,
+        "process_time": 0.1673545999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.3764357566833496,
+        "process_time": 0.10807810000000018,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.0407092571258545,
+        "process_time": 0.12604060000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.7648980617523193,
+        "process_time": 0.14010999999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.5152244567871094,
+        "process_time": 0.16056999999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.44503116607666,
+        "process_time": 0.14936229999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.0786092281341553,
+        "process_time": 0.14565530000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1356794834136963,
+        "process_time": 0.12003410000000025,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.1114141941070557,
+        "process_time": 0.1338881999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.1819427013397217,
+        "process_time": 0.12131619999999987,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.969752073287964,
+        "process_time": 0.1548172000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0254790782928467,
+        "process_time": 0.1680836000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.2632040977478027,
+        "process_time": 0.14497079999999984,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.069624185562134,
+        "process_time": 0.16146790000000033,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.0973398685455322,
+        "process_time": 0.14665479999999986,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.0560247898101807,
+        "process_time": 0.1608963000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.677920341491699,
+        "process_time": 0.13187740000000048,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.6771562099456787,
+        "process_time": 0.12805359999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.6613831520080566,
+        "process_time": 0.13731760000000026,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.6244256496429443,
+        "process_time": 0.11722100000000024,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.5563509464263916,
+        "process_time": 0.14154279999999986,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.6498007774353027,
+        "process_time": 0.12284989999999985,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.790431261062622,
+        "process_time": 0.2076522999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.497114419937134,
+        "process_time": 0.12906189999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.8238720893859863,
+        "process_time": 0.1612621999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1268303394317627,
+        "process_time": 0.15347750000000016,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.8848612308502197,
+        "process_time": 0.16347179999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.9514782428741455,
+        "process_time": 0.16288049999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.1358485221862793,
+        "process_time": 0.16264639999999986,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.301145076751709,
+        "process_time": 0.22025179999999978,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.1096994876861572,
+        "process_time": 0.14427899999999916,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.2655692100524902,
+        "process_time": 0.13689790000000013,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1362786293029785,
+        "process_time": 0.12454319999999974,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.1552212238311768,
+        "process_time": 0.13092959999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.268125534057617,
+        "process_time": 0.12912930000000022,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.075564384460449,
+        "process_time": 0.14220100000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.96577525138855,
+        "process_time": 0.19043840000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2631449699401855,
+        "process_time": 0.15287940000000022,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 6.639662742614746,
+        "process_time": 0.1855405000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.942291021347046,
+        "process_time": 0.1560014999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.6153223514556885,
+        "process_time": 0.14278769999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.579442024230957,
+        "process_time": 0.1665201999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.382969617843628,
+        "process_time": 0.15299109999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.080903053283691,
+        "process_time": 0.1920099999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.226722955703735,
+        "process_time": 0.1741406000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.5911107063293457,
+        "process_time": 0.15830430000000018,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.3951079845428467,
+        "process_time": 0.12600510000000043,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1048762798309326,
+        "process_time": 0.13428180000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.5400121212005615,
+        "process_time": 0.14428740000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.128607988357544,
+        "process_time": 0.1334074000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.699789524078369,
+        "process_time": 0.17424200000000045,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.246760368347168,
+        "process_time": 0.14040189999999964,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.8327412605285645,
+        "process_time": 0.13749780000000023,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.0785152912139893,
+        "process_time": 0.19703300000000024,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.361048936843872,
+        "process_time": 0.14843889999999993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.456066608428955,
+        "process_time": 0.14371010000000028,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.501699686050415,
+        "process_time": 0.12635910000000017,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.475205659866333,
+        "process_time": 0.13088379999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.4675216674804688,
+        "process_time": 0.17601880000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.478180408477783,
+        "process_time": 0.12313219999999969,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.1539392471313477,
+        "process_time": 0.15289909999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.017756462097168,
+        "process_time": 0.13867090000000015,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.9250223636627197,
+        "process_time": 0.14912269999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1258366107940674,
+        "process_time": 0.15747650000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.21889328956604,
+        "process_time": 0.15929830000000011,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.544156789779663,
+        "process_time": 0.17473379999999983,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.6810832023620605,
+        "process_time": 0.24388429999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.0135655403137207,
+        "process_time": 0.15224159999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.4648544788360596,
+        "process_time": 0.11704720000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.6709907054901123,
+        "process_time": 0.19679150000000023,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.749094009399414,
+        "process_time": 0.14740019999999987,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.2547359466552734,
+        "process_time": 0.1817464000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.567194700241089,
+        "process_time": 0.16261579999999975,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.510993480682373,
+        "process_time": 0.1658615000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.7306506633758545,
+        "process_time": 0.1736462999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.850914478302002,
+        "process_time": 0.14878910000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.507251977920532,
+        "process_time": 0.19162250000000025,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.728407621383667,
+        "process_time": 0.19645259999999976,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.278059005737305,
+        "process_time": 0.13562999999999992,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.346348524093628,
+        "process_time": 0.2543620000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.642789602279663,
+        "process_time": 0.14810809999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.365684270858765,
+        "process_time": 0.1358938000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.494138956069946,
+        "process_time": 0.22408919999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.96479868888855,
+        "process_time": 0.11937860000000011,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.208535432815552,
+        "process_time": 0.14642079999999957,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.694971323013306,
+        "process_time": 0.1399073999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.189910173416138,
+        "process_time": 0.13953550000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.463956356048584,
+        "process_time": 0.1504308000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 9.968931436538696,
+        "process_time": 0.2460811999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.591369390487671,
+        "process_time": 0.1989337,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.742264747619629,
+        "process_time": 0.2098993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.180917501449585,
+        "process_time": 0.12663829999999976,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.663776159286499,
+        "process_time": 0.14421850000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 14.332414865493774,
+        "process_time": 0.1590726,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 16.084681749343872,
+        "process_time": 0.15967660000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 19.25193190574646,
+        "process_time": 0.16451789999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 14.056824207305908,
+        "process_time": 0.15407730000000042,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 15.55824065208435,
+        "process_time": 0.15788449999999976,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 14.016756057739258,
+        "process_time": 0.21994009999999964,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 11.657354831695557,
+        "process_time": 0.14336839999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 14.821332693099976,
+        "process_time": 0.15592649999999963,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/BANK-PIMA/TRAIN/heif/heif_TRAIN_30.out"
+    }
+]

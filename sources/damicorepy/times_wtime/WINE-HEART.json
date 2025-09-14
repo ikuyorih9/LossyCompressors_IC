@@ -1,0 +1,1210 @@
+[
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.376713514328003,
+        "process_time": 0.1399290999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.501293420791626,
+        "process_time": 0.1380748999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.42488694190979,
+        "process_time": 0.1414553999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.28524374961853,
+        "process_time": 0.27183909999999933,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.910032272338867,
+        "process_time": 0.1596166000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.8663699626922607,
+        "process_time": 0.14721579999999967,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.4521915912628174,
+        "process_time": 0.15203979999999984,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.232220649719238,
+        "process_time": 0.21714150000000032,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.548611402511597,
+        "process_time": 0.18158809999999992,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.4581921100616455,
+        "process_time": 0.17154699999999945,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 10.396033525466919,
+        "process_time": 0.18356100000000009,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.0197718143463135,
+        "process_time": 0.18382899999999935,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.834472179412842,
+        "process_time": 0.1775500999999977,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.526792764663696,
+        "process_time": 0.2530824999999979,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.8614342212677,
+        "process_time": 0.1489711999999983,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.5016086101531982,
+        "process_time": 0.15693390000000207,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.9536960124969482,
+        "process_time": 0.13475449999999967,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.0042431354522705,
+        "process_time": 0.1721527000000016,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.992341995239258,
+        "process_time": 0.18323450000000108,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.44231390953064,
+        "process_time": 0.1850808999999991,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 5.044841051101685,
+        "process_time": 0.18372939999999716,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.8865766525268555,
+        "process_time": 0.16721379999999897,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.648810386657715,
+        "process_time": 0.18780399999999986,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.962772369384766,
+        "process_time": 0.17037739999999957,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.265218019485474,
+        "process_time": 0.18957010000000096,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.214950084686279,
+        "process_time": 0.1611091999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.489619970321655,
+        "process_time": 0.1623070999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.6590805053710938,
+        "process_time": 0.13203210000000354,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.4164464473724365,
+        "process_time": 0.1631687000000035,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.707267999649048,
+        "process_time": 0.1668844000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.3476951122283936,
+        "process_time": 0.16574950000000044,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.6873772144317627,
+        "process_time": 0.16423479999999913,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.0683653354644775,
+        "process_time": 0.2163706000000012,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.7314653396606445,
+        "process_time": 0.18948239999999927,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.9385573863983154,
+        "process_time": 0.1543132000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.013957500457764,
+        "process_time": 0.13265030000000166,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.864290237426758,
+        "process_time": 0.17716459999999756,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.529627323150635,
+        "process_time": 0.21349710000000144,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.6153266429901123,
+        "process_time": 0.17264610000000147,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.357552766799927,
+        "process_time": 0.15093450000000175,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.902066946029663,
+        "process_time": 0.1423173999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.9487650394439697,
+        "process_time": 0.2239268999999986,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.223507881164551,
+        "process_time": 0.15731180000000222,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.602691650390625,
+        "process_time": 0.24281610000000242,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 6.514260530471802,
+        "process_time": 0.6438381999999976,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.86297869682312,
+        "process_time": 0.18315720000000013,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 9.909871578216553,
+        "process_time": 0.27476339999999766,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 18.064666748046875,
+        "process_time": 0.2395202999999988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 6.52012300491333,
+        "process_time": 0.39193879999999837,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.61933445930481,
+        "process_time": 0.6020240000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.251570463180542,
+        "process_time": 0.231726799999997,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.221256971359253,
+        "process_time": 0.13326450000000278,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.492352247238159,
+        "process_time": 0.16863359999999972,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.243045091629028,
+        "process_time": 0.1485997999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.174168825149536,
+        "process_time": 0.12574770000000157,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.928955316543579,
+        "process_time": 0.17956339999999926,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.6396119594573975,
+        "process_time": 0.18877970000000133,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.474377632141113,
+        "process_time": 0.15239820000000037,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.861802816390991,
+        "process_time": 0.14323909999999884,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 13.491593599319458,
+        "process_time": 0.33528499999999894,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 15.026787281036377,
+        "process_time": 0.22644929999999874,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 19.363252639770508,
+        "process_time": 0.2268483999999944,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 15.68743085861206,
+        "process_time": 0.22798530000000028,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 15.929381132125854,
+        "process_time": 0.2821637999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 15.620728015899658,
+        "process_time": 0.26377839999999964,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 12.293511629104614,
+        "process_time": 0.2482334000000037,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 15.620709657669067,
+        "process_time": 0.32053659999999695,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/WINE-HEART/TRAIN/heif/heif_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.228437900543213,
+        "process_time": 0.1289756999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.973590135574341,
+        "process_time": 0.1468222000000008,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.956192970275879,
+        "process_time": 0.12286660000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.8559460639953613,
+        "process_time": 0.14184980000000103,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.925071954727173,
+        "process_time": 0.14012669999999794,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.023106336593628,
+        "process_time": 0.14655090000000115,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.570919990539551,
+        "process_time": 0.15896980000000127,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 4.197902679443359,
+        "process_time": 0.14690850000000033,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.9473607540130615,
+        "process_time": 0.14366590000000024,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.019959926605225,
+        "process_time": 0.12145920000000032,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.5319182872772217,
+        "process_time": 0.1397756000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.6993587017059326,
+        "process_time": 0.12073640000000019,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.578214645385742,
+        "process_time": 0.15085440000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.710606098175049,
+        "process_time": 0.12921169999999904,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.9956963062286377,
+        "process_time": 0.15312289999999962,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0582237243652344,
+        "process_time": 0.1550344999999993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.200489044189453,
+        "process_time": 0.1265198999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.1144542694091797,
+        "process_time": 0.11378939999999993,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.305448293685913,
+        "process_time": 0.18242450000000154,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.2724175453186035,
+        "process_time": 0.12222030000000039,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2487895488739014,
+        "process_time": 0.12334069999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 2.8059237003326416,
+        "process_time": 0.1492073000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.7322959899902344,
+        "process_time": 0.13262530000000083,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.825969696044922,
+        "process_time": 0.13926709999999964,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.8276784420013428,
+        "process_time": 0.1337250000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.4942219257354736,
+        "process_time": 0.1304451999999987,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.621244430541992,
+        "process_time": 0.13608840000000022,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.7766196727752686,
+        "process_time": 0.12995689999999982,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.4199650287628174,
+        "process_time": 0.1137630999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.7794387340545654,
+        "process_time": 0.12474909999999895,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.7105774879455566,
+        "process_time": 0.12046860000000237,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.17073130607605,
+        "process_time": 0.1680759000000016,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.830082416534424,
+        "process_time": 0.13677440000000018,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.1422221660614014,
+        "process_time": 0.1207893999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.6197915077209473,
+        "process_time": 0.14182730000000277,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.7791361808776855,
+        "process_time": 0.1221059000000011,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.8701744079589844,
+        "process_time": 0.12915019999999977,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.617368698120117,
+        "process_time": 0.13851949999999924,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.100116729736328,
+        "process_time": 0.12192699999999945,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.7163279056549072,
+        "process_time": 0.19049539999999965,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.7381505966186523,
+        "process_time": 0.1313159999999982,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.653066873550415,
+        "process_time": 0.1347297999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.673130989074707,
+        "process_time": 0.127486600000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.6391472816467285,
+        "process_time": 0.13298569999999899,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.848435878753662,
+        "process_time": 0.17776369999999986,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.262108087539673,
+        "process_time": 0.12563310000000172,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.9417810440063477,
+        "process_time": 0.13818799999999953,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.992072105407715,
+        "process_time": 0.2607311999999986,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.7834901809692383,
+        "process_time": 0.18554410000000132,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.953222274780273,
+        "process_time": 0.14073769999999897,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.3442745208740234,
+        "process_time": 0.1633312999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.110163450241089,
+        "process_time": 0.14550510000000116,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.391617298126221,
+        "process_time": 0.1973573999999978,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.9663171768188477,
+        "process_time": 0.15142630000000068,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.375795364379883,
+        "process_time": 0.1354165000000016,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.887586832046509,
+        "process_time": 0.2036289999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.968630790710449,
+        "process_time": 0.15761829999999932,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.8674798011779785,
+        "process_time": 0.12909090000000134,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.510246753692627,
+        "process_time": 0.1475476000000029,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.321991205215454,
+        "process_time": 0.14656820000000081,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.522168397903442,
+        "process_time": 0.13846589999999992,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.149041175842285,
+        "process_time": 0.12546459999999726,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.730370759963989,
+        "process_time": 0.19499989999999912,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.928025960922241,
+        "process_time": 0.19453740000000153,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.206753492355347,
+        "process_time": 0.13800770000000284,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.8898909091949463,
+        "process_time": 0.16529600000000144,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.073179483413696,
+        "process_time": 0.1269348000000008,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.312088966369629,
+        "process_time": 0.14878960000000063,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.296403646469116,
+        "process_time": 0.16371919999999918,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.605733633041382,
+        "process_time": 0.1404664000000011,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.458766937255859,
+        "process_time": 0.14269459999999867,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.132525205612183,
+        "process_time": 0.20038459999999958,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.037263631820679,
+        "process_time": 0.15603079999999991,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.273231267929077,
+        "process_time": 0.14429359999999747,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.464743137359619,
+        "process_time": 0.14277219999999957,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.739137411117554,
+        "process_time": 0.1529375999999978,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 10.703531503677368,
+        "process_time": 0.14442869999999886,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 10.486000776290894,
+        "process_time": 0.1443191000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 14.229113340377808,
+        "process_time": 0.15021810000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 9.836307048797607,
+        "process_time": 0.15820310000000148,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 10.01317286491394,
+        "process_time": 0.19647959999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 9.8943772315979,
+        "process_time": 0.14291610000000077,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 8.743773698806763,
+        "process_time": 0.14218370000000036,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 10.400869369506836,
+        "process_time": 0.1297713000000016,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/WINE-HEART/TRAIN/heif/heif_TRAIN_30.out"
+    }
+]

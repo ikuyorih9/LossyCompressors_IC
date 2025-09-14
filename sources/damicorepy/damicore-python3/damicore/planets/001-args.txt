@@ -1,0 +1,7 @@
+testdata/planets
+--matrix-format
+phylip
+--compressor
+gzip
+--results-dir
+./

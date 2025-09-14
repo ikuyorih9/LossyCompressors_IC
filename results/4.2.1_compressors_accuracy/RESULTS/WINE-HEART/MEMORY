@@ -1,0 +1,58 @@
+[
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 2.830082416534424,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 3.7381505966186523,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 3.7834901809692383,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 30,
+        "time": 4.968630790710449,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "webp_lossy",
+        "iteration": 30,
+        "time": 4.206753492355347,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "jp2_lossy",
+        "iteration": -1,
+        "time": 4.037263631820679,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "MEMORY",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 10.01317286491394,
+        "repetition": 0
+    }
+]

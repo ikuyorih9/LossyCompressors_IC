@@ -1,0 +1,5 @@
+MERCURY:Kickass planet with rotation period equal to two-thirds of its revolution period
+VENUS:Very hot planet, maybe hotter than Mercury, due to its infernal greenhouse effect
+EARTH:The jewel of the Solar System, or at least it considers itself so...
+MARS:A dry and almost dead planet, with a thin atmosphere and two silly asteroid moons
+

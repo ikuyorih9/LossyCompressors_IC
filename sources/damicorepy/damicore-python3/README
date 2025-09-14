@@ -1,0 +1,53 @@
+   DamicorePy is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+ DAMICORE-PY - A PYTHON IMPLEMENTATION OF DAMICORE.
+ ----------------------------------------------------------------------
+
+ DamicorePy was developed by Cesar B. K. M. [1] as part of his MsC Thesis at
+ ICMC, University of São Paulo, under supervision of Dr. Monaco F. J. and
+ of the original DAMICORE creator, Dr. Delbem A. C. B., both of of the 
+ Deparment of Computer Systems of ICMC-USP.
+
+ DAMICORE, first introduced by Sanches et al. [2], is an unsupervised 
+ machine learning method combining techniques from information theory, 
+ phylogenetics and Complex Network.  Original DAMICORE implementation was
+ written in C. DAMICORE-Py is an alternative implementation written in
+ Python.  It include all the functionality of DAMICORE plus some additional
+ facilities.  Please, refer to the project documentation and to the cited
+ bibliography for further information.
+
+ The project repository may be found at https://gitlab.com/adaptsys/damicorepy
+
+ For inquiries and suggestions, please refer to the file AUTHORS.
+
+ For copyright and licensing information please refer to the the file COPYING.
+
+ DamicorePy team is willing to receive and acknowledge contributions made to
+ the project in form of bug reports and suggestions. If you have extended 
+ DamicorePy in any way, please feel invited to report it as well. Also, if
+ you have used the software in a research project or practical problem 
+ solving, you are welcome to let us know (see FILE AUTHORS).
+
+REFERENCES
+
+ [1] Bruno Kim Medeiros Cesar, Estudo e extensão da metodologia DAMICORE para
+     tarefas de classificação, MsC thesis, ICMC University of Sao Paulo, Brasil
+     April 2016.
+
+ [2] Sanches, Adriano, Joao MP Cardoso, and Alexandre CB Delbem. "Identifying
+     merge-beneficial software kernels for hardware implementation." 
+     Reconfigurable Computing and FPGAs (ReConFig), 2011 International	
+     Conference on. IEEE, 2011.
+

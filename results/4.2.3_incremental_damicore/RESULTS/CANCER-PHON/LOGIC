@@ -1,0 +1,2882 @@
+[
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.554321527481079,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.2594776153564453,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.576866626739502,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.1857659816741943,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0810966491699219,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.5081508159637451,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0474717617034912,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.9762470722198486,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.9839901924133301,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.969987154006958,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.9625275135040283,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.9760942459106445,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 2.8325600624084473,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.9739007949829102,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 0.9785404205322266,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0390009880065918,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.1704392433166504,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.1916117668151855,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.432934284210205,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.249274492263794,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.154770851135254,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0971245765686035,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0295329093933105,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0505330562591553,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0365803241729736,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0334076881408691,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0731031894683838,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.0576767921447754,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.05531907081604,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 8,
+        "time": 1.054051399230957,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 1.9796254634857178,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.087764263153076,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 1.9924776554107666,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0096213817596436,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 3.921635150909424,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.144226312637329,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0158915519714355,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.057319402694702,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.043926477432251,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0906856060028076,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 1.984389305114746,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.115330457687378,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 1.962099552154541,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.061485528945923,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.032250165939331,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.131118059158325,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 3.8434619903564453,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.10632061958313,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0952439308166504,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.1147308349609375,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0390992164611816,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.012784719467163,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.026648759841919,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 1.9699199199676514,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0106589794158936,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0387368202209473,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.0520966053009033,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.04813551902771,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.039281129837036,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 7,
+        "time": 2.053565740585327,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.350858449935913,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.4257760047912598,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.5364224910736084,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.339200019836426,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.4257538318634033,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3516993522644043,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.383699893951416,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.4160125255584717,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 4.129098176956177,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3846819400787354,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3818840980529785,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.507108449935913,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3687331676483154,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3554866313934326,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3472702503204346,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3709638118743896,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.407602310180664,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 4.170506477355957,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.499666690826416,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.488020181655884,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3535315990448,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.357971668243408,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3455612659454346,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3838319778442383,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3305535316467285,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.341318130493164,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3901381492614746,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 4.270955324172974,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.332458019256592,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bzip2",
+        "iteration": 7,
+        "time": 2.3302435874938965,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.246056079864502,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.268287181854248,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2912578582763672,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2873516082763672,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2850253582000732,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2594971656799316,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.517153263092041,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3213562965393066,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2460739612579346,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3097305297851562,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2938270568847656,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 3.260899305343628,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.33943510055542,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2796299457550049,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.314974308013916,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2975537776947021,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3231239318847656,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.330101490020752,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3091087341308594,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.304715871810913,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.328113079071045,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2879259586334229,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.332613229751587,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3491954803466797,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.2494421005249023,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3076941967010498,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3037362098693848,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3045763969421387,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3507328033447266,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 7,
+        "time": 1.3276262283325195,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 5.0830888748168945,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.3545570373535156,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.243048906326294,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.223193407058716,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.3028712272644043,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 5.094032526016235,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.258281707763672,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2410361766815186,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.256089448928833,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2975590229034424,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.4206767082214355,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2375595569610596,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.1787116527557373,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2312328815460205,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2717695236206055,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.383883237838745,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.4660239219665527,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2468645572662354,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2613348960876465,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.4020004272460938,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2597174644470215,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.1503686904907227,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.195939064025879,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.4657821655273438,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.460062026977539,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2145297527313232,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.138719081878662,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.32570743560791,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.3464252948760986,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 3.2856907844543457,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.057701587677002,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 7.820012807846069,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.008966684341431,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.106846332550049,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.014720439910889,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 8.056684017181396,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.092325687408447,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.072287321090698,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.139784097671509,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.145645380020142,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.052242755889893,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.052627801895142,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 8.791868686676025,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.1097822189331055,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.194495916366577,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 7.875201940536499,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.06275749206543,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.116933345794678,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.1387646198272705,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 8.019940853118896,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.156183958053589,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.087780714035034,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 8.008034467697144,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.309808969497681,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.095993518829346,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.072885990142822,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 7.928001880645752,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.144472599029541,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 6.055455207824707,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": 9,
+        "time": 7.858562469482422,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 7.974480867385864,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.056420803070068,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 10.174488067626953,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 7.941141843795776,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 10.162874937057495,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.152956485748291,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.779011249542236,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 9.365843772888184,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.683371305465698,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.296576976776123,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 10.27491807937622,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 7.900791883468628,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.290616273880005,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.674498319625854,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 10.652019739151001,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 7.884843826293945,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.015366315841675,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 9.715543746948242,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.416076421737671,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 9.906730890274048,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.19083547592163,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.318130016326904,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 9.696707248687744,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 7.932819128036499,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.46787977218628,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 9.518972873687744,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 7.939979076385498,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 9.75722074508667,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.259798526763916,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 9,
+        "time": 8.234556913375854,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.133246183395386,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.292471647262573,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.35453462600708,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 20.301365852355957,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 20.660934448242188,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 21.12414789199829,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.600605487823486,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.229192972183228,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.240570545196533,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.47870421409607,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.52039098739624,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.45328712463379,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.58512854576111,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.45321488380432,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.738524436950684,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.335188388824463,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.34213137626648,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.63636565208435,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.466943740844727,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.417400598526,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.409018516540527,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.37537908554077,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.370832443237305,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.547441244125366,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.30815076828003,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 20.022575855255127,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 20.849754810333252,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 20.389665842056274,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.374010801315308,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 16,
+        "time": 19.698930263519287,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.945821523666382,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.929013013839722,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.953423976898193,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 5.11485481262207,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.865619659423828,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.843824148178101,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.87785792350769,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.889809846878052,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.922724962234497,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.877428293228149,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.8828794956207275,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 5.111446857452393,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 5.069419860839844,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.882479190826416,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.834619522094727,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.909828186035156,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.936295747756958,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 5.120484352111816,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.956782817840576,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.777097702026367,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 5.030623912811279,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.918020486831665,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.866503477096558,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.861903190612793,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.895669937133789,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.906461238861084,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.958652019500732,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.858522176742554,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 5.014530181884766,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 24,
+        "time": 4.95606255531311,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 30.33222723007202,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.257956504821777,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.378201246261597,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.193537950515747,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.412917375564575,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.43403649330139,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 30.10130739212036,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.50374460220337,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.419824600219727,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 31.495230197906494,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.29405927658081,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 31.13559603691101,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.234551668167114,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.418114185333252,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.34457564353943,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 30.471060514450073,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.42018699645996,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.221652030944824,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.388333082199097,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.390690088272095,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 30.94503116607666,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 30.68820071220398,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.25372624397278,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.265249252319336,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 30.966472148895264,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.855250597000122,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 31.655275344848633,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.6434485912323,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.3095440864563,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 25,
+        "time": 29.74631357192993,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.066657543182373,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.044453859329224,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.388688802719116,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.925475120544434,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 20.584370374679565,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 20.536819458007812,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 20.029707431793213,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.237773895263672,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 20.949270963668823,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.21665906906128,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.653276920318604,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.1362042427063,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.126418113708496,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.136221170425415,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.467743396759033,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.188211917877197,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.11291193962097,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.223226070404053,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.19128966331482,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.171382904052734,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.841952800750732,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 20.120915174484253,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.960306406021118,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.18569803237915,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.117622137069702,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.28220558166504,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 20.290050268173218,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.29742169380188,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.19363021850586,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 16,
+        "time": 19.152782678604126,
+        "repetition": 29
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 32.83057975769043,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.08687925338745,
+        "repetition": 1
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 32.86343288421631,
+        "repetition": 2
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 34.29032564163208,
+        "repetition": 3
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.928924322128296,
+        "repetition": 4
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.730961084365845,
+        "repetition": 5
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.47444009780884,
+        "repetition": 6
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.35589528083801,
+        "repetition": 7
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.344979763031006,
+        "repetition": 8
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.540616035461426,
+        "repetition": 9
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.31548500061035,
+        "repetition": 10
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.839481830596924,
+        "repetition": 11
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.624629497528076,
+        "repetition": 12
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 34.20495867729187,
+        "repetition": 13
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.604387521743774,
+        "repetition": 14
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.37415909767151,
+        "repetition": 15
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 34.43269443511963,
+        "repetition": 16
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.61403012275696,
+        "repetition": 17
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.7876091003418,
+        "repetition": 18
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 34.035218477249146,
+        "repetition": 19
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.60427260398865,
+        "repetition": 20
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.75564742088318,
+        "repetition": 21
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 35.58905529975891,
+        "repetition": 22
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.92676615715027,
+        "repetition": 23
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.71047115325928,
+        "repetition": 24
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.51985144615173,
+        "repetition": 25
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.4993896484375,
+        "repetition": 26
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.231956481933594,
+        "repetition": 27
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.55350732803345,
+        "repetition": 28
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 7,
+        "time": 33.476426124572754,
+        "repetition": 29
+    }
+]

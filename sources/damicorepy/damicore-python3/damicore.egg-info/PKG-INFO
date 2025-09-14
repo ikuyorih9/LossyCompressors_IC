@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: damicore
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Bruno Kim Medeiros Cesar
+Author-email: brunokim@icmc.usp.br
+License: GPLv2
+Platform: UNKNOWN
+Requires: igraph
+Requires: munkres
+License-File: AUTHORS
+
+UNKNOWN
+

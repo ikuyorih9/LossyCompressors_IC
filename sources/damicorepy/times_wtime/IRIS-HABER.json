@@ -1,0 +1,1146 @@
+[
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.7662599086761475,
+        "process_time": 0.28786420000000046,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.9768764972686768,
+        "process_time": 0.23977420000000027,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.069575548171997,
+        "process_time": 0.19763859999999944,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.181507110595703,
+        "process_time": 0.14452569999999998,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.874983549118042,
+        "process_time": 0.1476039,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.4787068367004395,
+        "process_time": 0.21211819999999904,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.643375396728516,
+        "process_time": 0.19869300000000045,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.430240631103516,
+        "process_time": 0.23714559999999985,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 9.588621377944946,
+        "process_time": 0.31584020000000024,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 5.26164984703064,
+        "process_time": 0.19929180000000013,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.878210067749023,
+        "process_time": 0.21893530000000005,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.9340314865112305,
+        "process_time": 0.16010560000000051,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 6.442935466766357,
+        "process_time": 0.14554810000000007,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.6053855419158936,
+        "process_time": 0.45676380000000005,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 6.555445194244385,
+        "process_time": 0.19901820000000026,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.359260559082031,
+        "process_time": 0.3199931000000005,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.827190399169922,
+        "process_time": 0.18420409999999965,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.582759141921997,
+        "process_time": 0.13973250000000004,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.983873605728149,
+        "process_time": 0.17874189999999945,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.615807294845581,
+        "process_time": 0.2894671999999998,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.610160827636719,
+        "process_time": 0.17408520000000038,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.716885566711426,
+        "process_time": 0.3313701,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.932968854904175,
+        "process_time": 0.16508389999999995,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.733189105987549,
+        "process_time": 0.1603621000000004,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.948947906494141,
+        "process_time": 0.2159428000000001,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 6.460062026977539,
+        "process_time": 0.3276233999999998,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 7.049118995666504,
+        "process_time": 0.2516809000000002,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.470390796661377,
+        "process_time": 0.24831940000000063,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.750995635986328,
+        "process_time": 0.22398520000000044,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.566784143447876,
+        "process_time": 0.7480704000000005,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 7.135020732879639,
+        "process_time": 0.4054043000000007,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.913721799850464,
+        "process_time": 0.3669589000000002,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 7.187540292739868,
+        "process_time": 0.34597180000000005,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.028158187866211,
+        "process_time": 0.2077688000000002,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 6.800185203552246,
+        "process_time": 0.18991500000000006,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.379810810089111,
+        "process_time": 0.2561285,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.589805364608765,
+        "process_time": 0.32154659999999957,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 6.958041667938232,
+        "process_time": 0.7045504999999999,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 6.79584813117981,
+        "process_time": 0.22279069999999912,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.936543941497803,
+        "process_time": 0.24770119999999984,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 8.716962099075317,
+        "process_time": 0.24332239999999983,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 14.331599950790405,
+        "process_time": 0.26718950000000063,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 10.511955499649048,
+        "process_time": 0.6481073999999998,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 8.694237470626831,
+        "process_time": 0.34640999999999966,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 6.182624101638794,
+        "process_time": 0.28466159999999974,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 7.3045854568481445,
+        "process_time": 1.3886903999999998,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 6.1448588371276855,
+        "process_time": 0.25553050000000077,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.741514682769775,
+        "process_time": 0.26808790000000116,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 20.011582612991333,
+        "process_time": 0.31462020000000024,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 14.235955238342285,
+        "process_time": 0.2549633,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 18.011228799819946,
+        "process_time": 0.20634379999999997,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 14.72615098953247,
+        "process_time": 0.18771839999999962,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 20.048863172531128,
+        "process_time": 0.27779939999999925,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 17.516920804977417,
+        "process_time": 1.3418816000000007,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 12.67446494102478,
+        "process_time": 0.28095979999999976,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 13.726222515106201,
+        "process_time": 0.19091090000000044,
+        "output": "../../../results/4_execute_damicore2/CLUSTERS/IRIS-HABER/TRAIN/heif/heif_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.8875880241394043,
+        "process_time": 0.12366999999999884,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.3693838119506836,
+        "process_time": 0.14270330000000087,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.180028915405273,
+        "process_time": 0.26187239999999967,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.401714324951172,
+        "process_time": 0.13108659999999972,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.7559759616851807,
+        "process_time": 0.15301560000000158,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.3985660076141357,
+        "process_time": 0.1296167999999991,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.142071008682251,
+        "process_time": 0.14172929999999972,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2019989490509033,
+        "process_time": 0.12988010000000116,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.5387609004974365,
+        "process_time": 0.15603259999999963,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.667811393737793,
+        "process_time": 0.12072240000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.5967421531677246,
+        "process_time": 0.15700809999999876,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.6121368408203125,
+        "process_time": 0.13107909999999912,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.5680084228515625,
+        "process_time": 0.13122409999999896,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.640153646469116,
+        "process_time": 0.13459280000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.7391958236694336,
+        "process_time": 0.13318549999999973,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.625088930130005,
+        "process_time": 0.1330360000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.9706168174743652,
+        "process_time": 0.12728139999999932,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.9074487686157227,
+        "process_time": 0.12175659999999944,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.6178624629974365,
+        "process_time": 0.13576699999999953,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.7806522846221924,
+        "process_time": 0.14130480000000034,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.8945393562316895,
+        "process_time": 0.14689719999999973,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.023941993713379,
+        "process_time": 0.14966770000000018,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.0338547229766846,
+        "process_time": 0.14738080000000053,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.8925583362579346,
+        "process_time": 0.14098399999999955,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.799959659576416,
+        "process_time": 0.16121000000000052,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.7546699047088623,
+        "process_time": 0.11791090000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.633246898651123,
+        "process_time": 0.1322346999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.5133907794952393,
+        "process_time": 0.13683859999999903,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.7187564373016357,
+        "process_time": 0.14235799999999976,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.626055955886841,
+        "process_time": 0.17965440000000044,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 5.317705392837524,
+        "process_time": 0.14591210000000032,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.2629189491271973,
+        "process_time": 0.13335359999999952,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 4.1988914012908936,
+        "process_time": 0.17993979999999965,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.016339540481567,
+        "process_time": 0.13781900000000036,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.9885194301605225,
+        "process_time": 0.16454460000000104,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.2716779708862305,
+        "process_time": 0.11199640000000066,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.2191693782806396,
+        "process_time": 0.1285550999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.58270001411438,
+        "process_time": 0.18059440000000038,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.673366069793701,
+        "process_time": 0.17572339999999897,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.41884183883667,
+        "process_time": 0.1367262999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.8357300758361816,
+        "process_time": 0.1523569000000009,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.821498155593872,
+        "process_time": 0.1254837000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.7660953998565674,
+        "process_time": 0.13130740000000074,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.739240884780884,
+        "process_time": 0.13556709999999939,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.6013855934143066,
+        "process_time": 0.12054130000000107,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.722031593322754,
+        "process_time": 0.19269059999999882,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.430392265319824,
+        "process_time": 0.12295250000000024,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.271341562271118,
+        "process_time": 0.14145889999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.8502309322357178,
+        "process_time": 0.1422182999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.9031448364257812,
+        "process_time": 0.20578749999999957,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.9726674556732178,
+        "process_time": 0.12443890000000124,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.403891563415527,
+        "process_time": 0.15349099999999893,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.8112242221832275,
+        "process_time": 0.15574570000000065,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.743213653564453,
+        "process_time": 0.1849912000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2688257694244385,
+        "process_time": 0.12131459999999983,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.896697759628296,
+        "process_time": 0.1235678,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 2.7840983867645264,
+        "process_time": 0.12728459999999941,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.381218194961548,
+        "process_time": 0.16774440000000013,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.102318048477173,
+        "process_time": 0.1450382999999995,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.717463254928589,
+        "process_time": 0.1483521999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.5696418285369873,
+        "process_time": 0.1637903000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.822094678878784,
+        "process_time": 0.19560409999999884,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.259597063064575,
+        "process_time": 0.18314130000000084,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.082951307296753,
+        "process_time": 0.13555069999999958,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 3.9530704021453857,
+        "process_time": 0.13314090000000078,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.444821834564209,
+        "process_time": 0.12055490000000013,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.116738557815552,
+        "process_time": 0.16589160000000014,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.123988628387451,
+        "process_time": 0.12176649999999967,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.052239418029785,
+        "process_time": 0.14900740000000035,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.9948513507843018,
+        "process_time": 0.16345579999999948,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.849972724914551,
+        "process_time": 0.1416561000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.35724401473999,
+        "process_time": 0.15765460000000076,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.938776016235352,
+        "process_time": 0.14855660000000093,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 6.13946533203125,
+        "process_time": 0.1466826000000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.888947486877441,
+        "process_time": 0.16566960000000108,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.734639883041382,
+        "process_time": 0.15705419999999926,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.50696325302124,
+        "process_time": 0.1298326999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.037776947021484,
+        "process_time": 0.22399210000000025,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.402330636978149,
+        "process_time": 0.2657388999999988,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 13.31934905052185,
+        "process_time": 0.13455890000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 11.626614093780518,
+        "process_time": 0.15646740000000037,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 16.091640949249268,
+        "process_time": 0.16062279999999873,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 12.81975269317627,
+        "process_time": 0.13237690000000057,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 14.126157283782959,
+        "process_time": 0.15039939999999952,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 11.91145658493042,
+        "process_time": 0.15972340000000074,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 9.08054804801941,
+        "process_time": 0.14010870000000075,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 12.993709802627563,
+        "process_time": 0.21497320000000109,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IRIS-HABER/TRAIN/heif/heif_TRAIN_30.out"
+    }
+]

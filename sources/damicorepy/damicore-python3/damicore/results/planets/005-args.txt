@@ -1,0 +1,10 @@
+testdata/planets
+--results-dir
+results/
+--compressor
+gzip
+--serial
+--tree-output
+planets.newick
+--matrix-format
+phylip

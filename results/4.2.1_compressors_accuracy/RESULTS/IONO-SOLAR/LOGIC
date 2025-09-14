@@ -1,0 +1,58 @@
+[
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 3.534538507461548,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 3.399670124053955,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 2.779371976852417,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 30,
+        "time": 2.761176586151123,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "webp_lossy",
+        "iteration": 30,
+        "time": 4.644738435745239,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "jp2_lossy",
+        "iteration": 30,
+        "time": 6.205838441848755,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 18.211275815963745,
+        "repetition": 0
+    }
+]

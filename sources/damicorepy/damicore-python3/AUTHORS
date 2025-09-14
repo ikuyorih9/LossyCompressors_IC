@@ -1,0 +1,33 @@
+
+ AUTHORS
+--------------------------------------------------
+
+ DamicorePy was originally written by MsC Bruno Kim Medeiros Cesar.
+
+ With major contributions by 
+
+    Dr. Alexandre Claudio Botazzo Delbem
+    Dr. Francisco Jose Monaco
+
+ DamicorePy is free software (see file COPYING)
+
+ Authors are willing to aknowledge furhter contributions received from 
+ DamicorePy user community. See file README to know how to report bugs,
+ suggestions and functionaly extensions.
+
+ For inquiries and suggestions on DamicorePy usage and functionaly extension
+ you may contact 
+
+     Dr. Delbem   acbd@icmc.usp.br
+
+  Other project authors and contributions may also be contacted
+
+    Dr. Monaco      monaco@icmc.usp.br
+    MsC Bruno Kim   brunokim@icmc.usp.br
+
+NOTES
+
+This distribution of DamicorePy include some data samples for the sake of
+usage example. Texts examples dataset collected by Monaco F. J. 
+(monaco@icmc.usp.br); Newsgroups examples dataset collected by Ken Lang and 
+obtained at http://qwone.com/~jason/20Newsgroups.

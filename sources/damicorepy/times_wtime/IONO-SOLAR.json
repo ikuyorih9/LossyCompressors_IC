@@ -1,0 +1,1322 @@
+[
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.2793502807617188,
+        "process_time": 0.1159549000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.432177782058716,
+        "process_time": 0.15550890000000006,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.4798471927642822,
+        "process_time": 0.1614637000000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.2003142833709717,
+        "process_time": 0.16695219999999988,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.301725149154663,
+        "process_time": 0.14119249999999983,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.957260847091675,
+        "process_time": 0.15259449999999974,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.497246026992798,
+        "process_time": 0.13351460000000026,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.998496055603027,
+        "process_time": 0.23289720000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 7.012026309967041,
+        "process_time": 0.15011280000000005,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 7.435911655426025,
+        "process_time": 0.20847619999999978,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 16.292534828186035,
+        "process_time": 0.16958099999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.479690313339233,
+        "process_time": 0.17283760000000115,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 3.7185912132263184,
+        "process_time": 0.16408819999999835,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.9758381843566895,
+        "process_time": 0.5111105999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.652271032333374,
+        "process_time": 0.19729839999999932,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.196216821670532,
+        "process_time": 0.19301269999999882,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.9915452003479004,
+        "process_time": 0.15842269999999914,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.4172022342681885,
+        "process_time": 0.16227780000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.6983721256256104,
+        "process_time": 0.1375276000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.663330793380737,
+        "process_time": 0.1562892999999992,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 4.210895538330078,
+        "process_time": 0.15022670000000105,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.162720680236816,
+        "process_time": 0.211681200000001,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.0324366092681885,
+        "process_time": 0.15438030000000147,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.094871520996094,
+        "process_time": 0.20819099999999935,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 5.401040315628052,
+        "process_time": 0.18621000000000087,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.345059394836426,
+        "process_time": 0.18330530000000067,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.80161714553833,
+        "process_time": 0.17767520000000125,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.9911489486694336,
+        "process_time": 0.15174539999999936,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 3.5866594314575195,
+        "process_time": 0.15986119999999993,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.509892702102661,
+        "process_time": 0.23440019999999961,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.668396472930908,
+        "process_time": 0.1456445999999989,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.8244829177856445,
+        "process_time": 0.15206359999999997,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.413902044296265,
+        "process_time": 0.1775038999999996,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.774566173553467,
+        "process_time": 0.1592406999999998,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.8089725971221924,
+        "process_time": 0.1361605999999984,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.624504566192627,
+        "process_time": 0.1787554,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.5459747314453125,
+        "process_time": 0.14146000000000036,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.573760986328125,
+        "process_time": 0.2199536000000002,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.87123966217041,
+        "process_time": 0.14652129999999985,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.112290620803833,
+        "process_time": 0.16034930000000003,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.235387325286865,
+        "process_time": 0.15871220000000008,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.343128204345703,
+        "process_time": 0.18485009999999846,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.289255380630493,
+        "process_time": 0.15096249999999856,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.802407741546631,
+        "process_time": 0.14995510000000145,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.9463770389556885,
+        "process_time": 0.16010110000000033,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 7.027473211288452,
+        "process_time": 0.25629020000000047,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.803755283355713,
+        "process_time": 0.16829910000000048,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 6.384775638580322,
+        "process_time": 0.20384380000000135,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 6.681056976318359,
+        "process_time": 0.21435099999999885,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.917944431304932,
+        "process_time": 0.1834194,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 5.825316429138184,
+        "process_time": 0.19181939999999997,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 5.370875120162964,
+        "process_time": 0.18916679999999886,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 6.398552894592285,
+        "process_time": 0.16642260000000064,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 7.249478578567505,
+        "process_time": 0.6630601000000027,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 6.090014696121216,
+        "process_time": 0.16883480000000262,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.433959007263184,
+        "process_time": 0.20292189999999977,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 6.845397233963013,
+        "process_time": 0.32458169999999953,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.366852045059204,
+        "process_time": 0.1370371999999982,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.161659479141235,
+        "process_time": 0.17569740000000067,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 16.733692407608032,
+        "process_time": 0.20442990000000094,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 21.87411117553711,
+        "process_time": 0.3799937,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 19.847558975219727,
+        "process_time": 1.0191184,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 55.873953104019165,
+        "process_time": 2.587769999999999,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 22.967117309570312,
+        "process_time": 0.4385638000000007,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 19.37118649482727,
+        "process_time": 0.28673089999999846,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 13.309863328933716,
+        "process_time": 0.2244136999999995,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 20.329164028167725,
+        "process_time": 0.25752430000000004,
+        "output": "../../../results/4_execute_damicore/CLUSTERS/IONO-SOLAR/TRAIN/heif/heif_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.9582557678222656,
+        "process_time": 0.13427830000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0880324840545654,
+        "process_time": 0.11755889999999969,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.0179920196533203,
+        "process_time": 0.13152920000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.913337230682373,
+        "process_time": 0.14502300000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.205972671508789,
+        "process_time": 0.1374234000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.9015281200408936,
+        "process_time": 0.13069929999999985,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.2983298301696777,
+        "process_time": 0.12202929999999945,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 2.7493300437927246,
+        "process_time": 0.12482490000000013,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.9798617362976074,
+        "process_time": 0.13503319999999963,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.7070083618164062,
+        "process_time": 0.11915059999999933,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.874582052230835,
+        "process_time": 0.12774280000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.769883394241333,
+        "process_time": 0.1729839000000002,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.214566946029663,
+        "process_time": 0.18672350000000115,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.7852976322174072,
+        "process_time": 0.13533870000000014,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.617382526397705,
+        "process_time": 0.14644739999999956,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.779268264770508,
+        "process_time": 0.11585580000000029,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.7572743892669678,
+        "process_time": 0.13945710000000044,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.5765902996063232,
+        "process_time": 0.12402239999999942,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.5829551219940186,
+        "process_time": 0.16308140000000027,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.594705820083618,
+        "process_time": 0.13231189999999948,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.615628480911255,
+        "process_time": 0.12829039999999914,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.957014799118042,
+        "process_time": 0.14621869999999948,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 2.795299530029297,
+        "process_time": 0.17975789999999936,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.9399454593658447,
+        "process_time": 0.16098469999999931,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.947598457336426,
+        "process_time": 0.1489041999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.919787645339966,
+        "process_time": 0.18253619999999948,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.8803603649139404,
+        "process_time": 0.14476690000000048,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.696908712387085,
+        "process_time": 0.13911230000000074,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 2.826505422592163,
+        "process_time": 0.1352757999999996,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.0933430194854736,
+        "process_time": 0.2183571999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.9305663108825684,
+        "process_time": 0.12994169999999983,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.20202374458313,
+        "process_time": 0.1484507000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.9951162338256836,
+        "process_time": 0.16964480000000037,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.0948071479797363,
+        "process_time": 0.1360425000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.1796441078186035,
+        "process_time": 0.1291153000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.410789966583252,
+        "process_time": 0.1801080000000006,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 7.584753036499023,
+        "process_time": 0.15091879999999946,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 5.753126859664917,
+        "process_time": 0.18018909999999977,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 5.771484613418579,
+        "process_time": 0.17226800000000075,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 6.5807952880859375,
+        "process_time": 0.20418510000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 5.23496150970459,
+        "process_time": 0.1623625000000004,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.775664806365967,
+        "process_time": 0.16592620000000124,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.001522064208984,
+        "process_time": 0.175517300000001,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/zlib/zlib_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "API",
+        "time": 4.043744325637817,
+        "process_time": 0.1832761999999999,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/zlib/zlib_API_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.148749589920044,
+        "process_time": 0.2621248000000005,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/zlib/zlib_CONC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.534538507461548,
+        "process_time": 0.17112780000000072,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/zlib/zlib_LOGIC_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.578416347503662,
+        "process_time": 0.12215859999999878,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/zlib/zlib_MEMORY_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.871382713317871,
+        "process_time": 0.13849909999999888,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/zlib/zlib_MODEL_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.829540967941284,
+        "process_time": 0.12078460000000035,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/zlib/zlib_PROCESS_30.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.520993947982788,
+        "process_time": 0.1824589999999997,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/zlib/zlib_TRAIN_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.566126585006714,
+        "process_time": 0.12583509999999976,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/gzip/gzip_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "API",
+        "time": 3.4906342029571533,
+        "process_time": 0.13482609999999973,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/gzip/gzip_API_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.565492630004883,
+        "process_time": 0.14811879999999888,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/gzip/gzip_CONC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 3.399670124053955,
+        "process_time": 0.1524006999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/gzip/gzip_LOGIC_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 3.681544542312622,
+        "process_time": 0.11152249999999952,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/gzip/gzip_MEMORY_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "MODEL",
+        "time": 3.5180575847625732,
+        "process_time": 0.1313519000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/gzip/gzip_MODEL_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.5614066123962402,
+        "process_time": 0.13053339999999913,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/gzip/gzip_PROCESS_30.out"
+    },
+    {
+        "compressor": "gzip",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.5427184104919434,
+        "process_time": 0.12731780000000015,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/gzip/gzip_TRAIN_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 2.8662524223327637,
+        "process_time": 0.12293989999999955,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/bz2/bz2_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "API",
+        "time": 2.9645659923553467,
+        "process_time": 0.12382710000000152,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/bz2/bz2_API_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.1457672119140625,
+        "process_time": 0.15075000000000038,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/bz2/bz2_CONC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.779371976852417,
+        "process_time": 0.12465519999999941,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/bz2/bz2_LOGIC_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.9008967876434326,
+        "process_time": 0.13081820000000022,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/bz2/bz2_MEMORY_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.555984258651733,
+        "process_time": 0.16858110000000082,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/bz2/bz2_MODEL_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 3.527813196182251,
+        "process_time": 0.14388729999999939,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/bz2/bz2_PROCESS_30.out"
+    },
+    {
+        "compressor": "bz2",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 3.5586304664611816,
+        "process_time": 0.16618310000000136,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/bz2/bz2_TRAIN_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 3.098046064376831,
+        "process_time": 0.13376860000000157,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/ppmd/ppmd_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "API",
+        "time": 3.0679852962493896,
+        "process_time": 0.16296589999999966,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/ppmd/ppmd_API_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "CONC",
+        "time": 3.2512149810791016,
+        "process_time": 0.20267010000000063,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/ppmd/ppmd_CONC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 2.761176586151123,
+        "process_time": 0.11409450000000021,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/ppmd/ppmd_LOGIC_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 2.7078628540039062,
+        "process_time": 0.13902530000000013,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/ppmd/ppmd_MEMORY_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "MODEL",
+        "time": 2.896106481552124,
+        "process_time": 0.12092069999999921,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/ppmd/ppmd_MODEL_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 2.752716064453125,
+        "process_time": 0.13208989999999865,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/ppmd/ppmd_PROCESS_30.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 2.6955063343048096,
+        "process_time": 0.14290290000000105,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/ppmd/ppmd_TRAIN_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 4.760250091552734,
+        "process_time": 0.14744899999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/webp_lossy/webp_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 4.644658803939819,
+        "process_time": 0.13551360000000123,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/webp_lossy/webp_lossy_API_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 4.910221099853516,
+        "process_time": 0.17086320000000121,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/webp_lossy/webp_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 4.644738435745239,
+        "process_time": 0.14299940000000078,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/webp_lossy/webp_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 4.898866891860962,
+        "process_time": 0.13958510000000146,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/webp_lossy/webp_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 4.511906862258911,
+        "process_time": 0.12796999999999947,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/webp_lossy/webp_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.210878610610962,
+        "process_time": 0.14319229999999905,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/webp_lossy/webp_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "webp_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 4.53118896484375,
+        "process_time": 0.13240670000000065,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/webp_lossy/webp_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 6.388812780380249,
+        "process_time": 0.1939528000000008,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/jp2_lossy/jp2_lossy_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "API",
+        "time": 5.734145164489746,
+        "process_time": 0.15748360000000083,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/jp2_lossy/jp2_lossy_API_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "CONC",
+        "time": 6.4236297607421875,
+        "process_time": 0.18276570000000092,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/jp2_lossy/jp2_lossy_CONC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 6.205838441848755,
+        "process_time": 0.14182329999999865,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/jp2_lossy/jp2_lossy_LOGIC_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 6.665336608886719,
+        "process_time": 0.1748605000000012,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/jp2_lossy/jp2_lossy_MEMORY_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "MODEL",
+        "time": 7.020106554031372,
+        "process_time": 0.1395426999999998,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/jp2_lossy/jp2_lossy_MODEL_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 4.754711389541626,
+        "process_time": 0.1555055000000003,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/jp2_lossy/jp2_lossy_PROCESS_30.out"
+    },
+    {
+        "compressor": "jp2_lossy",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 6.165477275848389,
+        "process_time": 0.15056030000000042,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/jp2_lossy/jp2_lossy_TRAIN_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "ANOTHER-CONTROL",
+        "time": 16.440361261367798,
+        "process_time": 0.21340819999999994,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/ANOTHER-CONTROL/heif/heif_ANOTHER-CONTROL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "API",
+        "time": 15.14021897315979,
+        "process_time": 0.13778319999999944,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/API/heif/heif_API_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "CONC",
+        "time": 18.426993131637573,
+        "process_time": 0.16148560000000067,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/CONC/heif/heif_CONC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "LOGIC",
+        "time": 18.211275815963745,
+        "process_time": 0.34171589999999874,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/LOGIC/heif/heif_LOGIC_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MEMORY",
+        "time": 17.45195245742798,
+        "process_time": 0.15158130000000014,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MEMORY/heif/heif_MEMORY_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "MODEL",
+        "time": 16.656641483306885,
+        "process_time": 0.1738174000000008,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/MODEL/heif/heif_MODEL_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "PROCESS",
+        "time": 14.61184811592102,
+        "process_time": 0.14555380000000007,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/PROCESS/heif/heif_PROCESS_30.out"
+    },
+    {
+        "compressor": "heif",
+        "number": 30,
+        "type": "TRAIN",
+        "time": 14.866449117660522,
+        "process_time": 0.17312619999999868,
+        "output": "../../../results/4.2.1_compressors_accuracy/CLUSTERS/IONO-SOLAR/TRAIN/heif/heif_TRAIN_30.out"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 3.5985302925109863,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 3.456515312194824,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 3.4140584468841553,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 3.95977783203125,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "webp_lossy",
+        "iteration": 30,
+        "time": 4.845113754272461,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "jp2_lossy",
+        "iteration": -1,
+        "time": 5.671895980834961,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 19.20932412147522,
+        "repetition": 0
+    }
+]

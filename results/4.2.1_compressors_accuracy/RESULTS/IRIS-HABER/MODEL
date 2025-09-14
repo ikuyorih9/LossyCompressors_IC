@@ -1,0 +1,58 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 3.2191693782806396,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 3.6013855934143066,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 3.8112242221832275,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "ppmd",
+        "iteration": 30,
+        "time": 3.5696418285369873,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "webp_lossy",
+        "iteration": -1,
+        "time": 4.052239418029785,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "jp2_lossy",
+        "iteration": 30,
+        "time": 4.50696325302124,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MODEL",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 11.91145658493042,
+        "repetition": 0
+    }
+]

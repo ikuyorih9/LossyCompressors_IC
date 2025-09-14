@@ -1,0 +1,58 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 3.2629189491271973,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 3.41884183883667,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 4.271341562271118,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 2.896697759628296,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "webp_lossy",
+        "iteration": -1,
+        "time": 4.082951307296753,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "jp2_lossy",
+        "iteration": 30,
+        "time": 5.35724401473999,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 13.31934905052185,
+        "repetition": 0
+    }
+]

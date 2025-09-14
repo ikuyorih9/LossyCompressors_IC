@@ -1,0 +1,58 @@
+[
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 2.5911107063293457,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 3.0785152912139893,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 3.017756462097168,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 3.6709907054901123,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "webp_lossy",
+        "iteration": 30,
+        "time": 4.728407621383667,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "jp2_lossy",
+        "iteration": 30,
+        "time": 4.694971323013306,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "heif",
+        "iteration": 30,
+        "time": 14.332414865493774,
+        "repetition": 0
+    }
+]

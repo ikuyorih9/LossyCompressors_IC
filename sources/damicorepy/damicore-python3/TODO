@@ -1,0 +1,19 @@
+
+TODO LIST
+--------------------------------------------------
+
+Known TODOs (please keep this list updated).
+
+Lots of things to do! Among them:
+* Implement UPGMA as tree joining strategy
+* Create/find a cladogram layout for graph visualization
+* Include compressors commonly available for Windows (WinRAR, 7zip, etc.)
+* Implement classification tool - receives a training dir and a test dir to
+  classify
+** Also, automate the sampling process and implement k-fold cross-validation
+* Implement verbosity level
+* Implement other simplifications strategies that produce a sparse graph from
+  the distance matrix instead of a tree (kNN, for example)
+* Replicate most of Complearn ncd API (file mode, etc.)
+* Tests!
+

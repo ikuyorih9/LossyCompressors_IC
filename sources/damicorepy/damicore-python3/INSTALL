@@ -1,0 +1,248 @@
+
+  INSTALLATION AND USAGE INSTRUCTION
+ ==================================================
+
+  DAMICORE is an easy-to-use clustering and classification tool.
+
+  DAMICORE is a pipeline of algorithms which is agnostic to the type of data
+  thanks to NCD, a compressor-based metric which views any piece of data as
+  simply a string of bits. This is particularly well-suited for heterogenous
+  datasets, datasets with difficult characteristics extraction and text datasets.
+
+     Data    Metric      Distance matrix    Simplification Phylogenetic tree
+    -----.           .---------------------.              .-----------------.
+     x_1 |           |     x_1 x_2 ... x_n |              |   x_1-.  x_n    |
+     x_2 |  .-----.  | x_1 d11 d12     d1n |    .----.    |        \  |     |
+     x_3 |->| NCD |->| x_2 d21 d22     d2n |--->| NJ |--->|         O-O---- |-->
+     ... |  '-----'  | ...                 |    '----'    |        /        |
+     x_n |           | x_n dn1 dn2     dnn |              | x_2---'         |
+    -----'           '---------------------'              '-----------------'
+   
+            Community detection        Clusters
+    -----.                        .-----------------.
+         |                        |  ___       ___  |
+         |    .-------------.     | |x_1|     |   | |
+    tree |--->| Fast Newman |---->| |x_2| ... |C_m| |
+         |    '-------------'     | |x_n|     |   | |
+         |                        | '---'     '---' |
+    -----'                        '-----------------'
+
+
+DEPENDENCIES
+------------------------------
+
+For installation, the following software tools are needed
+
+* python 2.7
+* igraph library (visit http://igraph.org/c for more informations)
+* python-igraph (visit http://igraph.org/python for more informations)
+* (Optional) munkres:
+     $ sudo apt install pip
+     $ pip install munkres
+
+For execution, DamicorePy relies on compressor programs to calculate the 
+distance between a  pair of objects (files). Make sure the following tools
+are installed
+
+* zlib (should be available in every Python installation)
+* gzip (available in almost all \*nix systems)
+* bz2 (common compression library, available via `sudo apt-get install libbz2-dev` in Debian/Ubuntu)
+* bzip2 (available in almost all \*nix systems)
+* ppmd (available via packages, or at http://ctxmodel.net/files/PPMd, or may
+         be `make`-ed at the ppmdi2 local directory)
+* paq8 (available at http://mattmahoney.net/dc/paq8l.zip, or may be `make`-ed
+         at the paq8 local directory)
+
+It is also recommended
+
+* FigTree (available in http://tree.bio.ed.ac.uk/software/figtree/)
+
+INSTALLING
+------------------------------
+
+With the source code, you can install the module at the top level with:
+     
+     $ sudo python setup.py install
+
+And then you can import the module with python like so: 
+
+     $ python -m damicore.damicore --help
+
+HELP
+
+To get command-line help, use
+
+    $ damicore.py --help
+
+USAGE
+
+The simplest way to use DAMICORE is to provide as argument a directory
+containing all files to be compared:
+
+     $ damicore.py example/texts
+
+Command-line options may also be placed in a file, with one argument per line:
+
+     $ damicore.py +args_file.txt
+
+OUTPUTTING
+
+Without other options, the program outputs a list of pairs of file name and
+corresponding cluster index. You can output intermediate steps into different
+files for analysis:
+
+     $ damicore.py example/texts --results-dir results
+
+This will output all intermediate results to the folder `results/texts`. The
+results are numbered, so previous results won't be overwritten. The results
+include:
+
+* <num>-args.txt       - arguments used in execution, which can be used as detailed
+                           in the "Usage" section.
+* <num>-ncd.csv        - information of NCD run in CSV format
+* <num>-ncd.phylip     - NCD distance matrix in Phylip format
+* <num>-tree.newick    - phylogenetic tree in Newick format
+* <num>-tree.svg       - tree image, with colors representing clusters found
+* <num>-membership.csv - clustering output, with pairs (instance, cluster index)
+* <num>-partition.csv  - if a reference clustering was provided, output several 
+                           partition comparison indices.
+
+You can choose just some intermediate steps to be outputted, and their format
+when available:
+
+    $ damicore.py example/texts --ncd-output matrix.dat --matrix-format csv
+    $ damicore.py example/texts --tree-output tree.newick
+    $ damicore.py example/texts --graph-image tree.png
+    $ damicore.py example/texts --output my-membership.csv
+    $ damicore.py example/texts --compare-to example/texts_clusters.csv \
+    > --partition-output partition.csv
+
+NCD OPTIONS
+
+By default, the script uses PPMd as compressor. If you don't have it installed,
+try using zlib, gzip or bzip2:
+
+     $ damicore.py example/texts --compressor gzip
+
+gzip and bzip2 both have a 'level' option, varying from 1 to 9. Higher level
+means best compression in exchange of speed. The default is 6.
+
+     $ damicore.py example/texts --compressor bzip2 --level 9
+
+It is possible to control the model order and memory of PPMd, in MiB. The higher
+the order, the more complex patterns can be found, and more memory is used. The
+default values are 6 and 10, respectively.
+
+     $ damicore.py example/texts --compressor ppmd --model-order 12 --memory 100
+
+One other feature, still in test, is interleaving blocks of both files to
+generate the paired file to be compressed. This might be useful for files larger
+than the window size for gzip and bzip2 (32 KiB and 900 KiB, respectively). It
+is recommended that the block size be smaller than half the window size.
+
+     $ damicore.py example/texts --compressor gzip --pairing interleave \
+     > --block-size 8192
+     $ damicore.py example/texts --compressor bzip2 --pairing interleave \
+     > --block-size 450000
+
+TREE GENERATION
+
+For now, the only available algorithm for tree generation is Neighbor Joining.
+You can specify that the input NCD matrix be normalized prior to the
+simplification, which seems to improve clustering when the distances are clustered
+around a mean.
+
+     $ damicore.py example/texts --normalize-matrix
+
+CLUSTERING
+
+There are several algorithms to detect communities in networks. Some of them are
+available using the --community-detection option:
+
+* Fast Newman (--fast): Greedy algorithm that optimizes modularity in a
+ bottom-up fashion, at each step joining communities that most increment
+ modularity.
+* Edge Betweenness, or Girvan-Newman (--betweenness): Greedy algorithm that
+ works in a top-down fashion, at each step removing the edge with maximum
+ betweenness.
+* Walktrap (--walktrap): Finds communities by performing small random walks in
+ the tree
+* Optimal Modularity (--optimal): Optimizes modularity globally. It is
+ recommended for small trees only, with less than 100 nodes.
+
+Except for the optimal algorithm, the other methods outputs dendograms that may
+be cut to provide a given number of clusters. By default they are cut where
+modularity is maximized.
+
+    $ damicore.py examples/texts --community-detection betweenness \
+    > --num-clusters 5
+
+It is recommended to normalize edge weights if there are negative values or if
+they are clustered around a mean. This can be done with --normalize-weights.
+
+CLUSTERING COMPARISON
+
+If you have a standard reference to compare the obtained clustering, you may
+provide it and a comparison index will be calculated to assess their
+similarity. By default, it computes both Wallace indices.
+
+    $ damicore.py example/texts --compare-to examples/texts_clusters.csv
+
+You can choose one of several indices available by using the --partition-index
+option. Most indices range between 0 and 1, where 1 means equality between
+partitions. Indices adjusted for chance take the value 0 if partitions are
+random, and 1 if they are equal; they can also assume negative values for
+"anti-partitions". Mutual information and Variation of Information return
+the number of bits of information shared between two partitions.
+
+* 'rand': Rand index
+* 'adjusted-rand': Rand index adjusted for chance
+* 'wallace', 'left-wallace', 'right-wallace': Wallace indices
+* 'adjusted-wallace', 'adjusted-left-wallace', 'adjusted-right-wallace':
+   Adjusted Wallace indices
+* 'jaccard': Jaccard index
+* 'fowlkes-mallows', 'fm': Fowlkes-Mallows index
+* 'adjusted-fowlkes-mallows', 'afm': Adjusted Fowlkes-Mallows index
+* 'mutual-information', 'mi': Mutual information
+* 'variation-of-information', 'vi': Variation of information
+* 'incongruence', 'normalized-incongruence': Number of incongruences, or
+  normalized between 0 and 1.
+* 'classification': Classification index
+
+You can also provide 'all' to compute all indices.
+
+GENERAL
+
+By default, the NCD computation is done in parallel. It is useful for debugging
+an error to be able to compute in serial, which can be done with the --serial
+option.
+
+TROUBLESHOOTING FAQ
+------------------------------
+
+*It starts compressing all files, sits there and then outputs a stacktrace
+with `Queue.Empty`*
+
+Do you have the compressor installed? By default DAMICORE uses PPMd; you
+can switch the compressor with the --compressor option to gzip or bzip2.
+
+However, if the error persists, try executing with --serial and mail me the
+stacktrace. Unfortunetely when running in parallel, any error is swallowed :(
+
+*I get an error sometimes saying "weights must be positive, Invalid value"*
+
+Sometimes, the generated intermediary tree will have negative edge lengths,
+and this translates into negative weights for the community detection
+algorithm. You can try normalizing them with --normalize-weights, which
+will ensure they are all positive.
+
+CONTACT
+------------------------------
+
+Please, refer to the file 
+
+LICENSE
+------------------------------
+
+Please, refer to the file COPYING.
+

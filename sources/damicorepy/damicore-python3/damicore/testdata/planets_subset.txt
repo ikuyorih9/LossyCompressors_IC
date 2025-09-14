@@ -1,0 +1,3 @@
+#indirect ./planets/
+MERCURY
+EARTH
