@@ -52,7 +52,7 @@ params = [
     '--reps', '1',
     '--output', '4.2.3_incremental_damicore'
 ]
-# result = subprocess.run(['bash', script] + params, capture_output=False, text=True)
+result = subprocess.run(['bash', script] + params, capture_output=False, text=True)
 
 
 # GENERATE INCREMENTAL DF
