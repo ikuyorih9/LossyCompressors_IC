@@ -13,6 +13,4 @@ Este diretório contém os scripts utilizados para gerar todos os resultados apr
 
 Há ainda o `execute_damicore.sh`, que é um script genérico do bash para executar a DAMICORE. 
 
-> [! IMPORTANT]
-> Read the safety guidelines before operating the machinery.
-> Failure to do so may result in injury.
+>❗**IMPORTANTE**: o script foi executado no Ubuntu 22 e foi preciso ativá-lo com `chmod +x execute_damicore.sh`.
